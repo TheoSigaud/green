@@ -153,7 +153,7 @@
       </div>
       <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-20 u-white u-layout-cell-3">
         <div class="u-container-layout u-valign-bottom u-container-layout-3">
-          <img class="u-expanded-width u-image u-image-2" src="images/pexelsphoto3806288.jpeg">
+          <img class="u-expanded-width u-image u-image-2" src="@/assets/images/pexelsphoto3806288.jpeg">
         </div>
       </div>
     </div>
@@ -232,7 +232,7 @@
         <div class="u-container-style u-layout-cell u-right-cell u-size-20 u-size-20-md u-layout-cell-3">
           <div class="u-container-layout u-valign-top u-container-layout-3">
             <h3 class="u-custom-font u-font-lato u-text u-text-body-alt-color u-text-7">Business Class</h3>
-            <img src="@/assets/69ab11c48df6f674467cc0f1db1a99fc.png" alt="" class="u-expanded-width u-image u-image-default u-image-3">
+            <img src="@/assets/images/69ab11c48df6f674467cc0f1db1a99fc.png" alt="" class="u-expanded-width u-image u-image-default u-image-3">
             <h6 class="u-text u-text-body-alt-color u-text-8">Business traveler's favourite</h6>
             <ul class="u-text u-text-body-alt-color u-text-9">
               <li>Black car guaranteed</li>
@@ -274,25 +274,6 @@
   <h1 class="u-text u-text-default u-title u-text-1">INTUITIVE</h1>
   <p class="u-large-text u-text u-text-default u-text-variant u-text-2">Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</p>
   <a href="#" class="u-btn u-button-style u-palette-2-base u-btn-1">Read More</a>
-</div>
-</section>
-<section class="u-clearfix u-section-10" id="sec-18b1">
-<div class="u-clearfix u-sheet u-sheet-1">
-  <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
-    <div class="u-layout">
-      <div class="u-layout-row">
-        <div class="u-container-align-center u-container-style u-image u-layout-cell u-size-30 u-image-1" data-image-width="400" data-image-height="265">
-          <div class="u-container-layout u-container-layout-1"></div>
-        </div>
-        <div class="u-container-align-center u-container-style u-layout-cell u-size-30 u-layout-cell-2">
-          <div class="u-container-layout u-valign-middle u-container-layout-2">
-            <h2 class="u-align-center u-text u-text-default u-text-1">Exemple de titre</h2>
-            <p class="u-align-center u-text u-text-default u-text-2">Exemple de texte. Cliquez pour sélectionner l'élément de texte.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
 </div>
 </section>
 
