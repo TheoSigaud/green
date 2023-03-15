@@ -5,6 +5,7 @@ export default defineNuxtConfig({
     '@/assets/css/Page-2.css',
   ],
   modules: [
+    'nuxt-purgecss',
     '@nuxt/image-edge'
   ],
   image: {
