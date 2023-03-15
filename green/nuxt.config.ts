@@ -4,7 +4,6 @@ export default defineNuxtConfig({
     '@/assets/css/nicepage.css',
     '@/assets/css/Page-2.css',
   ],
-  modules: [
-    '@nuxtjs/tailwindcss'
-  ]
+
+  modules: ['nuxt-purgecss',]
 })
