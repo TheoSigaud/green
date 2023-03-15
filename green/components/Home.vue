@@ -124,7 +124,6 @@
           <h4 class="u-align-center-md u-align-center-sm u-align-center-xl u-align-center-xs u-custom-font u-font-lato u-text u-text-body-alt-color u-text-1">We Provide<br><b>Car Service</b>
           </h4>
           <p class="u-align-center-md u-align-center-sm u-align-center-xl u-align-center-xs u-text u-text-body-alt-color u-text-2">We are your one-stop shop for complete auto care for every make and model of vehicle.</p>
-          <a href="#" class="u-border-2 u-border-radius-0 u-border-white u-btn u-btn-rectangle u-button-style u-btn-1">read more</a>
         </div>
       </div>
       <div class="u-container-style u-image u-layout-cell u-left-cell u-size-30 u-image-1">
@@ -179,7 +178,6 @@
           <h2 class="u-align-center u-custom-font u-font-lato u-text u-text-1">Car Servicing&nbsp;<br>
           </h2>
           <p class="u-align-center u-text u-text-2">If you’re concerned about a fault with your car, our mechanics can carry out a number of different car repairs to help keep your car on the road and running smoothly. We offer a free car repair check to help diagnose the problem.</p>
-          <a href="#" class="u-btn u-button-style u-custom-font u-btn-1">read more</a>
         </div>
       </div>
       <div class="u-container-style u-image u-layout-cell u-right-cell u-size-36 u-image-1">
@@ -273,7 +271,6 @@
 <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
   <h1 class="u-text u-text-default u-title u-text-1">INTUITIVE</h1>
   <p class="u-large-text u-text u-text-default u-text-variant u-text-2">Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</p>
-  <a href="#" class="u-btn u-button-style u-palette-2-base u-btn-1">Read More</a>
 </div>
 </section>
 
