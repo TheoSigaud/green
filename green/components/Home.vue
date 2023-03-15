@@ -135,7 +135,7 @@
 </div>
 </section>
 <section class="u-align-center u-clearfix u-palette-2-base u-valign-top u-section-5" id="carousel_7de1">
-<nuxt-picture src="/pexelsphoto3806275.jpeg" class="u-align-left u-expanded-width u-image u-left-0 u-image-1"/>
+<nuxt-img src="/pexelsphoto3806275.jpeg" class="u-align-left u-expanded-width u-image u-left-0 u-image-1"/>
 <div class="u-clearfix u-gutter-0 u-layout-wrap u-layout-wrap-1">
   <div class="u-layout">
     <div class="u-layout-row">
@@ -153,7 +153,7 @@
       </div>
       <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-20 u-white u-layout-cell-3">
         <div class="u-container-layout u-valign-bottom u-container-layout-3">
-          <nuxt-picture class="u-expanded-width u-image u-image-2" src="/pexelsphoto3806288.jpeg"/>
+          <nuxt-img class="u-expanded-width u-image u-image-2" src="/pexelsphoto3806288.jpeg"/>
         </div>
       </div>
     </div>
@@ -201,7 +201,7 @@
         <div class="u-align-left-sm u-align-left-xs u-container-style u-layout-cell u-left-cell u-size-20 u-size-20-md u-layout-cell-1">
           <div class="u-container-layout u-valign-top u-container-layout-1">
             <h3 class="u-custom-font u-font-lato u-text u-text-body-alt-color u-text-1">Taxi</h3>
-            <nuxt-picture src="/b5e94a25741dca619aa54b1f08ab425d.png" alt="" class="u-image u-image-default u-image-1" data-image-width="275" data-image-height="200"/>
+            <nuxt-img src="/b5e94a25741dca619aa54b1f08ab425d.png" alt="" class="u-image u-image-default u-image-1" data-image-width="275" data-image-height="200"/>
             <h6 class="u-text u-text-body-alt-color u-text-2">The taxi you know</h6>
             <ul class="u-text u-text-body-alt-color u-text-3">
               <li>Price based on taximeter </li>
@@ -214,7 +214,7 @@
         <div class="u-container-style u-layout-cell u-size-20 u-size-20-md u-layout-cell-2">
           <div class="u-container-layout u-valign-top u-container-layout-2">
             <h3 class="u-custom-font u-font-lato u-text u-text-body-alt-color u-text-4">Economy+</h3>
-            <nuxt-picture src="/975255a895e0efd3c75c073d5e0e89f3.png" alt="" class="u-image u-image-default u-image-2"/>
+            <nuxt-img src="/975255a895e0efd3c75c073d5e0e89f3.png" alt="" class="u-image u-image-default u-image-2"/>
             <h6 class="u-text u-text-body-alt-color u-text-5">For budget travelers</h6>
             <ul class="u-text u-text-body-alt-color u-text-6">
               <li>Fixed price&nbsp;</li>
@@ -232,7 +232,7 @@
         <div class="u-container-style u-layout-cell u-right-cell u-size-20 u-size-20-md u-layout-cell-3">
           <div class="u-container-layout u-valign-top u-container-layout-3">
             <h3 class="u-custom-font u-font-lato u-text u-text-body-alt-color u-text-7">Business Class</h3>
-            <nuxt-picture src="/69ab11c48df6f674467cc0f1db1a99fc.png" alt="" class="u-expanded-width u-image u-image-default u-image-3"/>
+            <nuxt-img src="/69ab11c48df6f674467cc0f1db1a99fc.png" alt="" class="u-expanded-width u-image u-image-default u-image-3"/>
             <h6 class="u-text u-text-body-alt-color u-text-8">Business traveler's favourite</h6>
             <ul class="u-text u-text-body-alt-color u-text-9">
               <li>Black car guaranteed</li>
