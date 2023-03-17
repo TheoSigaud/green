@@ -8,9 +8,6 @@
           a family around in style.</h4>
       </div>
     </section>
-    <section>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/HcHaP26J804" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </section>
     <section class="u-clearfix u-gradient u-section-2" id="carousel_af51">
       <div class="u-clearfix u-sheet u-sheet-1">
         <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
