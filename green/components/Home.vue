@@ -221,12 +221,6 @@
               </div>
             </div>
             <div class="u-container-style u-image u-layout-cell u-right-cell u-size-36 u-image-1">
-              <div class="u-container-layout u-valign-bottom u-container-layout-2">
-                <p class="u-text u-text-3">Image from <a href="https://www.freepik.com/free-photos-vectors/car"
-                                                         target="_blank"><b>Freepik</b>
-                </a>
-                </p>
-              </div>
             </div>
           </div>
         </div>
@@ -315,14 +309,6 @@
         </div>
       </div>
     </section>
-    <section class="u-align-center u-clearfix u-image u-shading u-section-9" src="" data-image-width="256"
-             data-image-height="256" id="sec-697c">
-      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <h1 class="u-text u-text-default u-title u-text-1">INTUITIVE</h1>
-        <p class="u-large-text u-text u-text-default u-text-variant u-text-2">Sample text. Lorem ipsum dolor sit amet,
-          consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</p>
-      </div>
-    </section>
 
 
     <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-77b4">
@@ -331,16 +317,6 @@
           double click to start editing the text.</p>
       </div>
     </footer>
-    <section class="u-backlink u-clearfix u-grey-80">
-      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
-        <span>Website Templates</span>
-      </a>
-      <p class="u-text">
-        <span>created with</span>
-      </p>
-      <a class="u-link" href="" target="_blank">
-        <span>Website Builder Software</span>
-      </a>.
-    </section>
+
   </div>
 </template>

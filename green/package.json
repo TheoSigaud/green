@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@nuxt/image": "^0.7.1",
+    "@nuxtjs/robots": "^3.0.0",
     "nuxt-purgecss": "^2.0.0"
   }
 }
