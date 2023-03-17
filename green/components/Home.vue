@@ -162,7 +162,7 @@
       </div>
     </section>
     <section class="u-align-center u-clearfix u-palette-2-base u-valign-top u-section-5" id="carousel_7de1">
-      <img src="@/assets/images/pexelsphoto3806275.webp" class="u-align-left u-expanded-width u-image u-left-0 u-image-1" alt="car" width="100" height="599"/>
+      <img src="@/assets/images/pexelsphoto3806275.webp" class="u-align-left u-expanded-width u-image u-left-0 u-image-1" alt="car"/>
       <div class="u-clearfix u-gutter-0 u-layout-wrap u-layout-wrap-1">
         <div class="u-layout">
           <div class="u-layout-row">
@@ -184,7 +184,7 @@
             </div>
             <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-20 u-white u-layout-cell-3">
               <div class="u-container-layout u-valign-bottom u-container-layout-3">
-                <img class="u-expanded-width u-image u-image-2" src="@/assets/images/pexelsphoto3806288.webp" alt="car" width="100" height="331"/>
+                <img class="u-expanded-width u-image u-image-2" src="@/assets/images/pexelsphoto3806288.webp" alt="car"/>
               </div>
             </div>
           </div>
