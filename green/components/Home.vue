@@ -147,9 +147,9 @@
           <div class="u-layout-row">
             <div class="u-align-center-lg u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-1">
               <div class="u-container-layout u-valign-middle u-container-layout-1">
-                <h4 class="u-align-center-md u-align-center-sm u-align-center-xl u-align-center-xs u-custom-font u-font-lato u-text u-text-body-alt-color u-text-1">
+                <h2 class="u-align-center-md u-align-center-sm u-align-center-xl u-align-center-xs u-custom-font u-font-lato u-text u-text-body-alt-color u-text-1">
                   We Provide<br><b>Car Service</b>
-                </h4>
+                </h2>
                 <p class="u-align-center-md u-align-center-sm u-align-center-xl u-align-center-xs u-text u-text-body-alt-color u-text-2">
                   We are your one-stop shop for complete auto care for every make and model of vehicle.</p>
               </div>
@@ -237,7 +237,7 @@
                   <h3 class="u-custom-font u-font-lato u-text u-text-body-alt-color u-text-1">Taxi</h3>
                   <img src="@/assets/images/b5e94a25741dca619aa54b1f08ab425d.webp" alt="car" class="u-image u-image-default u-image-1"
                             data-image-width="275" data-image-height="200"/>
-                  <h6 class="u-text u-text-body-alt-color u-text-2">The taxi you know</h6>
+                  <h3 class="u-text u-text-body-alt-color u-text-2">The taxi you know</h3>
                   <ul class="u-text u-text-body-alt-color u-text-3">
                     <li>Price based on taximeter</li>
                     <li>Executed by local taxi fleets</li>
@@ -251,7 +251,7 @@
                   <h3 class="u-custom-font u-font-lato u-text u-text-body-alt-color u-text-4">Economy+</h3>
                   <img src="@/assets/images/975255a895e0efd3c75c073d5e0e89f3.webp" alt="car"
                             class="u-image u-image-default u-image-2"/>
-                  <h6 class="u-text u-text-body-alt-color u-text-5">For budget travelers</h6>
+                  <h3 class="u-text u-text-body-alt-color u-text-5">For budget travelers</h3>
                   <ul class="u-text u-text-body-alt-color u-text-6">
                     <li>Fixed price&nbsp;</li>
                     <li>English-speaking driver&nbsp;</li>
@@ -270,7 +270,7 @@
                   <h3 class="u-custom-font u-font-lato u-text u-text-body-alt-color u-text-7">Business Class</h3>
                   <img src="@/assets/images/69ab11c48df6f674467cc0f1db1a99fc.webp" alt="car"
                             class="u-expanded-width u-image u-image-default u-image-3"/>
-                  <h6 class="u-text u-text-body-alt-color u-text-8">Business traveler's favourite</h6>
+                  <h3 class="u-text u-text-body-alt-color u-text-8">Business traveler's favourite</h3>
                   <ul class="u-text u-text-body-alt-color u-text-9">
                     <li>Black car guaranteed</li>
                     <li>Fixed price</li>
