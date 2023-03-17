@@ -162,7 +162,7 @@
       </div>
     </section>
     <section class="u-align-center u-clearfix u-palette-2-base u-valign-top u-section-5" id="carousel_7de1">
-      <img src="@/assets/images/pexelsphoto3806275.jpeg" class="u-align-left u-expanded-width u-image u-left-0 u-image-1"/>
+      <img src="@/assets/images/pexelsphoto3806275.webp" class="u-align-left u-expanded-width u-image u-left-0 u-image-1"/>
       <div class="u-clearfix u-gutter-0 u-layout-wrap u-layout-wrap-1">
         <div class="u-layout">
           <div class="u-layout-row">
@@ -184,7 +184,7 @@
             </div>
             <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-20 u-white u-layout-cell-3">
               <div class="u-container-layout u-valign-bottom u-container-layout-3">
-                <img class="u-expanded-width u-image u-image-2" src="@/assets/images/pexelsphoto3806288.jpeg"/>
+                <img class="u-expanded-width u-image u-image-2" src="@/assets/images/pexelsphoto3806288.webp"/>
               </div>
             </div>
           </div>
@@ -241,7 +241,7 @@
                   class="u-align-left-sm u-align-left-xs u-container-style u-layout-cell u-left-cell u-size-20 u-size-20-md u-layout-cell-1">
                 <div class="u-container-layout u-valign-top u-container-layout-1">
                   <h3 class="u-custom-font u-font-lato u-text u-text-body-alt-color u-text-1">Taxi</h3>
-                  <img src="@/assets/images/b5e94a25741dca619aa54b1f08ab425d.png" alt="" class="u-image u-image-default u-image-1"
+                  <img src="@/assets/images/b5e94a25741dca619aa54b1f08ab425d.webp" alt="" class="u-image u-image-default u-image-1"
                             data-image-width="275" data-image-height="200"/>
                   <h6 class="u-text u-text-body-alt-color u-text-2">The taxi you know</h6>
                   <ul class="u-text u-text-body-alt-color u-text-3">
@@ -255,7 +255,7 @@
               <div class="u-container-style u-layout-cell u-size-20 u-size-20-md u-layout-cell-2">
                 <div class="u-container-layout u-valign-top u-container-layout-2">
                   <h3 class="u-custom-font u-font-lato u-text u-text-body-alt-color u-text-4">Economy+</h3>
-                  <img src="@/assets/images/975255a895e0efd3c75c073d5e0e89f3.png" alt=""
+                  <img src="@/assets/images/975255a895e0efd3c75c073d5e0e89f3.webp" alt=""
                             class="u-image u-image-default u-image-2"/>
                   <h6 class="u-text u-text-body-alt-color u-text-5">For budget travelers</h6>
                   <ul class="u-text u-text-body-alt-color u-text-6">
@@ -274,7 +274,7 @@
               <div class="u-container-style u-layout-cell u-right-cell u-size-20 u-size-20-md u-layout-cell-3">
                 <div class="u-container-layout u-valign-top u-container-layout-3">
                   <h3 class="u-custom-font u-font-lato u-text u-text-body-alt-color u-text-7">Business Class</h3>
-                  <img src="@/assets/images/69ab11c48df6f674467cc0f1db1a99fc.png" alt=""
+                  <img src="@/assets/images/69ab11c48df6f674467cc0f1db1a99fc.webp" alt=""
                             class="u-expanded-width u-image u-image-default u-image-3"/>
                   <h6 class="u-text u-text-body-alt-color u-text-8">Business traveler's favourite</h6>
                   <ul class="u-text u-text-body-alt-color u-text-9">
