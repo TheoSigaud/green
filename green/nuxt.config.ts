@@ -19,5 +19,16 @@ export default defineNuxtConfig({
       xxl: 1536,
       '2xl': 1536
     },
+  },
+
+  app: {
+    head: {
+      title: 'Green concession',
+      meta: [
+        { charset: 'utf-8' },
+        { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+        { name: 'description', content: 'Trouvez la voiture de vos rêves ! Découvrez notre large sélection de véhicules neufs et d\'occasion, ainsi que nos offres de financement avantageuses. Faites confiance à notre équipe de professionnels pour vous accompagner dans votre recherche et profitez d\'un service de qualité. Visitez notre site dès maintenant pour en savoir plus' }
+      ],
+    }
   }
 })

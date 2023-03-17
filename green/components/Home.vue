@@ -1,40 +1,53 @@
-<template data-home-page="https://website4348848.nicepage.io/Page-2.html?version=7c826bf7-e070-45d2-b046-348b9e21dde9" data-home-page-title="Page 2" class="u-body u-overlap u-xl-mode" data-lang="fr">
+<template data-home-page="https://website4348848.nicepage.io/Page-2.html?version=7c826bf7-e070-45d2-b046-348b9e21dde9"
+          data-home-page-title="Page 2" class="u-body u-overlap u-xl-mode" data-lang="fr">
   <div>
-<section class="u-align-center u-clearfix u-image u-section-1" id="carousel_bd75">
-<div class="u-clearfix u-sheet u-sheet-1">
-  <h1 class="u-align-center-xs u-custom-font u-font-lato u-text u-text-body-alt-color u-title u-text-1">xc60</h1>
-  <h4 class="u-align-center-xs u-custom-font u-text u-text-body-alt-color u-text-font u-text-2">A safe way to move a family around in style.</h4>
-</div>
-</section>
-<section class="u-clearfix u-gradient u-section-2" id="carousel_af51">
-<div class="u-clearfix u-sheet u-sheet-1">
-  <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
-    <div class="u-layout">
-      <div class="u-layout-row">
-        <div class="u-container-style u-image u-image-contain u-layout-cell u-left-cell u-size-40 u-image-1">
-          <div class="u-container-layout u-container-layout-1"></div>
-        </div>
-        <div class="u-align-right-lg u-align-right-md u-align-right-xl u-container-style u-layout-cell u-right-cell u-size-20 u-layout-cell-2">
-          <div class="u-container-layout u-valign-middle-lg u-valign-middle-xl u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-2">
-            <h2 class="u-align-center-sm u-align-center-xs u-custom-font u-font-lato u-text u-text-white u-text-1">Safe. Relaxing. Good to ride in. Subtly decorated.</h2>
-            <p class="u-align-center-sm u-align-center-xs u-text u-text-body-alt-color u-text-2">The Volvo XC60 sits right at the heart of the big-selling mid-size crossover crowd. It’s handsome and luxurious and it wraps you in a safety blanket as comprehensive as the Swedish welfare&nbsp;state.</p>
+    <section class="u-align-center u-clearfix u-image u-section-1" id="carousel_bd75">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h1 class="u-align-center-xs u-custom-font u-font-lato u-text u-text-body-alt-color u-title u-text-1">xc60</h1>
+        <h4 class="u-align-center-xs u-custom-font u-text u-text-body-alt-color u-text-font u-text-2">A safe way to move
+          a family around in style.</h4>
+      </div>
+    </section>
+    <section class="u-clearfix u-gradient u-section-2" id="carousel_af51">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-container-style u-image u-image-contain u-layout-cell u-left-cell u-size-40 u-image-1">
+                <div class="u-container-layout u-container-layout-1"></div>
+              </div>
+              <div
+                  class="u-align-right-lg u-align-right-md u-align-right-xl u-container-style u-layout-cell u-right-cell u-size-20 u-layout-cell-2">
+                <div
+                    class="u-container-layout u-valign-middle-lg u-valign-middle-xl u-valign-top-md u-valign-top-sm u-valign-top-xs u-container-layout-2">
+                  <h2 class="u-align-center-sm u-align-center-xs u-custom-font u-font-lato u-text u-text-white u-text-1">
+                    Safe. Relaxing. Good to ride in. Subtly decorated.</h2>
+                  <p class="u-align-center-sm u-align-center-xs u-text u-text-body-alt-color u-text-2">The Volvo XC60
+                    sits right at the heart of the big-selling mid-size crossover crowd. It’s handsome and luxurious and
+                    it wraps you in a safety blanket as comprehensive as the Swedish welfare&nbsp;state.</p>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </div>
-</div>
-</section>
-<section class="u-align-center u-clearfix u-palette-2-base u-section-3" id="carousel_aae5">
-<div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-sheet-1">
-  <h2 class="u-custom-font u-font-lato u-text u-text-1">How does it work</h2>
-  <p class="u-text u-text-2">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&nbsp;<br>
-  </p>
-  <div class="u-clearfix u-expanded-width u-gutter-30 u-layout-wrap u-layout-wrap-1">
-    <div class="u-layout">
-      <div class="u-layout-row">
-        <div class="u-container-style u-layout-cell u-left-cell u-size-20 u-size-20-md u-layout-cell-1">
-          <div class="u-container-layout u-valign-top u-container-layout-1"><span class="u-icon u-icon-circle u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 468 468" style=""><use xlink:href="#svg-72c3"></use></svg><svg class="u-svg-content" viewBox="0 0 468 468" x="0px" y="0px" id="svg-72c3" style="enable-background:new 0 0 468 468;"><g><g><path d="M450.1,187.5l-10.2-10.8l-35.8-96.5C398,63.9,382.4,53.1,365,53H109.3c-17.4,0-33,10.9-39.1,27.2l-35.3,95.3l-14.7,13.6    C7.4,200,0,216,0,232.8v140.6c0.1,23,18.8,41.6,41.8,41.6h26.4c23,0,41.7-18.6,41.8-41.6V353h248v20.4c0.1,23,18.8,41.6,41.8,41.6    h26.4c23,0,41.7-18.6,41.8-41.6V229.1C467.9,213.4,461.5,198.4,450.1,187.5z M89,87c3.2-8.5,11.3-14,20.3-14h255.8    c9,0,17.1,5.6,20.3,14l31.2,84h-23.3c-5.5-37.5-40.4-63.4-77.9-57.8c-29.9,4.4-53.4,27.9-57.8,57.8H57.8L89,87z M372.9,171h-95.1    c5.5-26.3,31.3-43.1,57.6-37.6C354.2,137.4,368.9,152.1,372.9,171z M90,373.4c-0.1,12-9.8,21.6-21.8,21.6H41.8    c-12,0-21.7-9.6-21.8-21.6v-26.2c6,3.9,13.9,5.8,21.8,5.8H90V373.4z M448,373.4c-0.1,12-9.8,21.6-21.8,21.6h-26.4    c-12,0-21.7-9.7-21.8-21.6V353h48.2c7.9,0,15.8-1.9,21.8-5.8V373.4z M426.2,333H41.8c-11.9,0.1-21.7-9.4-21.8-21.4v-78.8    c0-11,4.9-21.5,13.3-28.6c0.1-0.1,0.3-0.3,0.4-0.4L47.3,191H426l9.6,10.3c0.1,0.2,0.4,0.3,0.5,0.5c7.5,7.1,11.8,17,11.8,27.3v82.5    h0.1C447.9,323.5,438.1,333.1,426.2,333z"></path>
+    </section>
+    <section class="u-align-center u-clearfix u-palette-2-base u-section-3" id="carousel_aae5">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-sheet-1">
+        <h2 class="u-custom-font u-font-lato u-text u-text-1">How does it work</h2>
+        <p class="u-text u-text-2">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+          mollit anim id est laborum.&nbsp;<br>
+        </p>
+        <div class="u-clearfix u-expanded-width u-gutter-30 u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div class="u-container-style u-layout-cell u-left-cell u-size-20 u-size-20-md u-layout-cell-1">
+                <div class="u-container-layout u-valign-top u-container-layout-1"><span
+                    class="u-icon u-icon-circle u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice"
+                                                               viewBox="0 0 468 468" style=""><use
+                    xlink:href="#svg-72c3"></use></svg><svg class="u-svg-content" viewBox="0 0 468 468" x="0px" y="0px"
+                                                            id="svg-72c3" style="enable-background:new 0 0 468 468;"><g><g><path
+                    d="M450.1,187.5l-10.2-10.8l-35.8-96.5C398,63.9,382.4,53.1,365,53H109.3c-17.4,0-33,10.9-39.1,27.2l-35.3,95.3l-14.7,13.6    C7.4,200,0,216,0,232.8v140.6c0.1,23,18.8,41.6,41.8,41.6h26.4c23,0,41.7-18.6,41.8-41.6V353h248v20.4c0.1,23,18.8,41.6,41.8,41.6    h26.4c23,0,41.7-18.6,41.8-41.6V229.1C467.9,213.4,461.5,198.4,450.1,187.5z M89,87c3.2-8.5,11.3-14,20.3-14h255.8    c9,0,17.1,5.6,20.3,14l31.2,84h-23.3c-5.5-37.5-40.4-63.4-77.9-57.8c-29.9,4.4-53.4,27.9-57.8,57.8H57.8L89,87z M372.9,171h-95.1    c5.5-26.3,31.3-43.1,57.6-37.6C354.2,137.4,368.9,152.1,372.9,171z M90,373.4c-0.1,12-9.8,21.6-21.8,21.6H41.8    c-12,0-21.7-9.6-21.8-21.6v-26.2c6,3.9,13.9,5.8,21.8,5.8H90V373.4z M448,373.4c-0.1,12-9.8,21.6-21.8,21.6h-26.4    c-12,0-21.7-9.7-21.8-21.6V353h48.2c7.9,0,15.8-1.9,21.8-5.8V373.4z M426.2,333H41.8c-11.9,0.1-21.7-9.4-21.8-21.4v-78.8    c0-11,4.9-21.5,13.3-28.6c0.1-0.1,0.3-0.3,0.4-0.4L47.3,191H426l9.6,10.3c0.1,0.2,0.4,0.3,0.5,0.5c7.5,7.1,11.8,17,11.8,27.3v82.5    h0.1C447.9,323.5,438.1,333.1,426.2,333z"></path>
 </g>
 </g><g><g><path d="M132,231H57c-5.5,0-10,4.5-10,10v52c0,5.5,4.5,10,10,10h75c5.5,0,10-4.5,10-10v-52C142,235.5,137.5,231,132,231z M122,283    H67v-32h55V283z"></path>
 </g>
@@ -45,11 +58,16 @@
 </g><g><g><path d="M282.3,242h-96.6c-5.5,0-10,4.5-10,10s4.5,10,10,10h96.6c5.5,0,10-4.5,10-10S287.8,242,282.3,242z"></path>
 </g>
 </g></svg></span>
-            <p class="u-align-center u-text u-text-3">Enter your pickup point and time, select your car.</p>
-          </div>
-        </div>
-        <div class="u-container-style u-layout-cell u-size-20 u-size-20-md u-layout-cell-2">
-          <div class="u-container-layout u-valign-top u-container-layout-2"><span class="u-icon u-icon-circle u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 512 512" style=""><use xlink:href="#svg-3516"></use></svg><svg class="u-svg-content" viewBox="0 0 512 512" x="0px" y="0px" id="svg-3516" style="enable-background:new 0 0 512 512;"><g><g><path d="M290.133,0H119.467C95.94,0,76.8,19.14,76.8,42.667v307.2c0,23.526,19.14,42.667,42.667,42.667h153.6v-17.067h-153.6    c-14.114,0-25.6-11.486-25.6-25.6v-307.2c0-14.114,11.486-25.6,25.6-25.6h170.667c14.114,0,25.6,11.486,25.6,25.6v247.467H332.8    V42.667C332.8,19.14,313.66,0,290.133,0z"></path>
+                  <p class="u-align-center u-text u-text-3">Enter your pickup point and time, select your car.</p>
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-size-20 u-size-20-md u-layout-cell-2">
+                <div class="u-container-layout u-valign-top u-container-layout-2"><span
+                    class="u-icon u-icon-circle u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice"
+                                                               viewBox="0 0 512 512" style=""><use
+                    xlink:href="#svg-3516"></use></svg><svg class="u-svg-content" viewBox="0 0 512 512" x="0px" y="0px"
+                                                            id="svg-3516" style="enable-background:new 0 0 512 512;"><g><g><path
+                    d="M290.133,0H119.467C95.94,0,76.8,19.14,76.8,42.667v307.2c0,23.526,19.14,42.667,42.667,42.667h153.6v-17.067h-153.6    c-14.114,0-25.6-11.486-25.6-25.6v-307.2c0-14.114,11.486-25.6,25.6-25.6h170.667c14.114,0,25.6,11.486,25.6,25.6v247.467H332.8    V42.667C332.8,19.14,313.66,0,290.133,0z"></path>
 </g>
 </g><g><g><path d="M414.643,227.294l-83.712-104.619l-13.338,10.667l83.712,104.61c10.863,13.568,16.836,30.618,16.828,48v208.981H293.291    c-44.083,0-79.957-35.866-79.957-79.957V384h-17.067v30.976c0,53.495,43.529,97.024,97.024,97.024h133.376    c4.719,0,8.533-3.814,8.533-8.533V285.961C435.209,264.73,427.913,243.891,414.643,227.294z"></path>
 </g>
@@ -68,11 +86,16 @@
 </g><g><g><path d="M179.2,281.6H128c-4.71,0-8.533,3.814-8.533,8.533v51.2c0,4.719,3.823,8.533,8.533,8.533h51.2    c4.71,0,8.533-3.814,8.533-8.533v-51.2C187.733,285.414,183.91,281.6,179.2,281.6z M170.667,332.8h-34.133v-34.133h34.133V332.8z"></path>
 </g>
 </g></svg></span>
-            <p class="u-align-center u-text u-text-4">Select your preferred payment method.</p>
-          </div>
-        </div>
-        <div class="u-container-style u-layout-cell u-right-cell u-size-20 u-size-20-md u-layout-cell-3">
-          <div class="u-container-layout u-valign-top u-container-layout-3"><span class="u-icon u-icon-circle u-icon-3"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 512 512" style=""><use xlink:href="#svg-3291"></use></svg><svg class="u-svg-content" viewBox="0 0 512 512" x="0px" y="0px" id="svg-3291" style="enable-background:new 0 0 512 512;"><g><g><path d="M264.537,247.017h-17.067c-4.713,0-8.533,3.82-8.533,8.533s3.82,8.533,8.533,8.533h17.067c4.713,0,8.533-3.82,8.533-8.533    S269.25,247.017,264.537,247.017z"></path>
+                  <p class="u-align-center u-text u-text-4">Select your preferred payment method.</p>
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-right-cell u-size-20 u-size-20-md u-layout-cell-3">
+                <div class="u-container-layout u-valign-top u-container-layout-3"><span
+                    class="u-icon u-icon-circle u-icon-3"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice"
+                                                               viewBox="0 0 512 512" style=""><use
+                    xlink:href="#svg-3291"></use></svg><svg class="u-svg-content" viewBox="0 0 512 512" x="0px" y="0px"
+                                                            id="svg-3291" style="enable-background:new 0 0 512 512;"><g><g><path
+                    d="M264.537,247.017h-17.067c-4.713,0-8.533,3.82-8.533,8.533s3.82,8.533,8.533,8.533h17.067c4.713,0,8.533-3.82,8.533-8.533    S269.25,247.017,264.537,247.017z"></path>
 </g>
 </g><g><g><path d="M273.071,281.15h-34.133c-4.713,0-8.533,3.821-8.533,8.533c0,4.713,3.82,8.533,8.533,8.533h34.133    c4.713,0,8.533-3.821,8.533-8.533C281.604,284.971,277.784,281.15,273.071,281.15z"></path>
 </g>
@@ -107,64 +130,79 @@
 </g><g><g><path d="M324.321,93.817c-2.293-0.013-4.494,0.896-6.108,2.524c-1.576,1.625-2.462,3.795-2.475,6.059    c-0.023,2.27,0.869,4.454,2.475,6.059c3.319,3.346,8.722,3.368,12.068,0.05c1.628-1.614,2.537-3.816,2.524-6.108    C332.832,97.687,329.033,93.845,324.321,93.817z"></path>
 </g>
 </g></svg></span>
-            <p class="u-align-center u-text u-text-5">Our taxi driver picks you up at the given location and time.</p>
+                  <p class="u-align-center u-text u-text-5">Our taxi driver picks you up at the given location and
+                    time.</p>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </div>
-</div>
-</section>
-<section class="u-align-center u-clearfix u-palette-1-base u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-section-4" id="carousel_8890">
-<div class="u-clearfix u-layout-wrap u-layout-wrap-1">
-  <div class="u-layout">
-    <div class="u-layout-row">
-      <div class="u-align-center-lg u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-1">
-        <div class="u-container-layout u-valign-middle u-container-layout-1">
-          <h4 class="u-align-center-md u-align-center-sm u-align-center-xl u-align-center-xs u-custom-font u-font-lato u-text u-text-body-alt-color u-text-1">We Provide<br><b>Car Service</b>
-          </h4>
-          <p class="u-align-center-md u-align-center-sm u-align-center-xl u-align-center-xs u-text u-text-body-alt-color u-text-2">We are your one-stop shop for complete auto care for every make and model of vehicle.</p>
+    </section>
+    <section
+        class="u-align-center u-clearfix u-palette-1-base u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-section-4"
+        id="carousel_8890">
+      <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
+        <div class="u-layout">
+          <div class="u-layout-row">
+            <div class="u-align-center-lg u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-1">
+              <div class="u-container-layout u-valign-middle u-container-layout-1">
+                <h4 class="u-align-center-md u-align-center-sm u-align-center-xl u-align-center-xs u-custom-font u-font-lato u-text u-text-body-alt-color u-text-1">
+                  We Provide<br><b>Car Service</b>
+                </h4>
+                <p class="u-align-center-md u-align-center-sm u-align-center-xl u-align-center-xs u-text u-text-body-alt-color u-text-2">
+                  We are your one-stop shop for complete auto care for every make and model of vehicle.</p>
+              </div>
+            </div>
+            <div class="u-container-style u-image u-layout-cell u-left-cell u-size-30 u-image-1">
+              <div class="u-container-layout u-container-layout-2"></div>
+            </div>
+          </div>
         </div>
       </div>
-      <div class="u-container-style u-image u-layout-cell u-left-cell u-size-30 u-image-1">
-        <div class="u-container-layout u-container-layout-2"></div>
-      </div>
-    </div>
-  </div>
-</div>
-</section>
-<section class="u-align-center u-clearfix u-palette-2-base u-valign-top u-section-5" id="carousel_7de1">
-<nuxt-img src="/pexelsphoto3806275.jpeg" class="u-align-left u-expanded-width u-image u-left-0 u-image-1"/>
-<div class="u-clearfix u-gutter-0 u-layout-wrap u-layout-wrap-1">
-  <div class="u-layout">
-    <div class="u-layout-row">
-      <div class="u-container-style u-layout-cell u-left-cell u-palette-1-base u-size-20 u-layout-cell-1">
-        <div class="u-container-layout u-container-layout-1">
-          <h3 class="u-align-center u-custom-font u-font-lato u-text u-text-body-alt-color u-text-1">Air Filter Change</h3>
-          <p class="u-align-center u-text u-text-body-alt-color u-text-2">Donec volutpat, purus et tempus convallis, odio quam consectetur nulla, sit amet auctor augue ligula ac ipsum. Curabitur elementum...</p>
+    </section>
+    <section class="u-align-center u-clearfix u-palette-2-base u-valign-top u-section-5" id="carousel_7de1">
+      <img src="@/assets/images/pexelsphoto3806275.jpeg" class="u-align-left u-expanded-width u-image u-left-0 u-image-1"/>
+      <div class="u-clearfix u-gutter-0 u-layout-wrap u-layout-wrap-1">
+        <div class="u-layout">
+          <div class="u-layout-row">
+            <div class="u-container-style u-layout-cell u-left-cell u-palette-1-base u-size-20 u-layout-cell-1">
+              <div class="u-container-layout u-container-layout-1">
+                <h3 class="u-align-center u-custom-font u-font-lato u-text u-text-body-alt-color u-text-1">Air Filter
+                  Change</h3>
+                <p class="u-align-center u-text u-text-body-alt-color u-text-2">Donec volutpat, purus et tempus
+                  convallis, odio quam consectetur nulla, sit amet auctor augue ligula ac ipsum. Curabitur
+                  elementum...</p>
+              </div>
+            </div>
+            <div class="u-container-style u-layout-cell u-size-20 u-white u-layout-cell-2">
+              <div class="u-container-layout u-container-layout-2">
+                <h3 class="u-align-center u-custom-font u-font-lato u-text u-text-3">Battery-water</h3>
+                <p class="u-align-center u-text u-text-4">Donec volutpat, purus et tempus convallis, odio quam
+                  consectetur nulla, sit amet auctor augue ligula ac ipsum. Curabitur elementum...</p>
+              </div>
+            </div>
+            <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-20 u-white u-layout-cell-3">
+              <div class="u-container-layout u-valign-bottom u-container-layout-3">
+                <img class="u-expanded-width u-image u-image-2" src="@/assets/images/pexelsphoto3806288.jpeg"/>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
-      <div class="u-container-style u-layout-cell u-size-20 u-white u-layout-cell-2">
-        <div class="u-container-layout u-container-layout-2">
-          <h3 class="u-align-center u-custom-font u-font-lato u-text u-text-3">Battery-water</h3>
-          <p class="u-align-center u-text u-text-4">Donec volutpat, purus et tempus convallis, odio quam consectetur nulla, sit amet auctor augue ligula ac ipsum. Curabitur elementum...</p>
-        </div>
-      </div>
-      <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-20 u-white u-layout-cell-3">
-        <div class="u-container-layout u-valign-bottom u-container-layout-3">
-          <nuxt-img class="u-expanded-width u-image u-image-2" src="/pexelsphoto3806288.jpeg"/>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-</section>
-<section class="u-align-center u-clearfix u-section-6" id="carousel_7402">
-<div class="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
-  <div class="u-layout">
-    <div class="u-layout-row">
-      <div class="u-container-style u-layout-cell u-left-cell u-palette-1-base u-size-24 u-layout-cell-1">
-        <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-container-layout-1"><span class="u-icon u-icon-circle u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 468 468" style=""><use xlink:href="#svg-d7eb"></use></svg><svg class="u-svg-content" viewBox="0 0 468 468" x="0px" y="0px" id="svg-d7eb" style="enable-background:new 0 0 468 468;"><g><g><path d="M450.1,187.5l-10.2-10.8l-35.8-96.5C398,63.9,382.4,53.1,365,53H109.3c-17.4,0-33,10.9-39.1,27.2l-35.3,95.3l-14.7,13.6    C7.4,200,0,216,0,232.8v140.6c0.1,23,18.8,41.6,41.8,41.6h26.4c23,0,41.7-18.6,41.8-41.6V353h248v20.4c0.1,23,18.8,41.6,41.8,41.6    h26.4c23,0,41.7-18.6,41.8-41.6V229.1C467.9,213.4,461.5,198.4,450.1,187.5z M89,87c3.2-8.5,11.3-14,20.3-14h255.8    c9,0,17.1,5.6,20.3,14l31.2,84h-23.3c-5.5-37.5-40.4-63.4-77.9-57.8c-29.9,4.4-53.4,27.9-57.8,57.8H57.8L89,87z M372.9,171h-95.1    c5.5-26.3,31.3-43.1,57.6-37.6C354.2,137.4,368.9,152.1,372.9,171z M90,373.4c-0.1,12-9.8,21.6-21.8,21.6H41.8    c-12,0-21.7-9.6-21.8-21.6v-26.2c6,3.9,13.9,5.8,21.8,5.8H90V373.4z M448,373.4c-0.1,12-9.8,21.6-21.8,21.6h-26.4    c-12,0-21.7-9.7-21.8-21.6V353h48.2c7.9,0,15.8-1.9,21.8-5.8V373.4z M426.2,333H41.8c-11.9,0.1-21.7-9.4-21.8-21.4v-78.8    c0-11,4.9-21.5,13.3-28.6c0.1-0.1,0.3-0.3,0.4-0.4L47.3,191H426l9.6,10.3c0.1,0.2,0.4,0.3,0.5,0.5c7.5,7.1,11.8,17,11.8,27.3v82.5    h0.1C447.9,323.5,438.1,333.1,426.2,333z"></path>
+    </section>
+    <section class="u-align-center u-clearfix u-section-6" id="carousel_7402">
+      <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
+        <div class="u-layout">
+          <div class="u-layout-row">
+            <div class="u-container-style u-layout-cell u-left-cell u-palette-1-base u-size-24 u-layout-cell-1">
+              <div
+                  class="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-container-layout-1"><span
+                  class="u-icon u-icon-circle u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice"
+                                                             viewBox="0 0 468 468" style=""><use
+                  xlink:href="#svg-d7eb"></use></svg><svg class="u-svg-content" viewBox="0 0 468 468" x="0px" y="0px"
+                                                          id="svg-d7eb" style="enable-background:new 0 0 468 468;"><g><g><path
+                  d="M450.1,187.5l-10.2-10.8l-35.8-96.5C398,63.9,382.4,53.1,365,53H109.3c-17.4,0-33,10.9-39.1,27.2l-35.3,95.3l-14.7,13.6    C7.4,200,0,216,0,232.8v140.6c0.1,23,18.8,41.6,41.8,41.6h26.4c23,0,41.7-18.6,41.8-41.6V353h248v20.4c0.1,23,18.8,41.6,41.8,41.6    h26.4c23,0,41.7-18.6,41.8-41.6V229.1C467.9,213.4,461.5,198.4,450.1,187.5z M89,87c3.2-8.5,11.3-14,20.3-14h255.8    c9,0,17.1,5.6,20.3,14l31.2,84h-23.3c-5.5-37.5-40.4-63.4-77.9-57.8c-29.9,4.4-53.4,27.9-57.8,57.8H57.8L89,87z M372.9,171h-95.1    c5.5-26.3,31.3-43.1,57.6-37.6C354.2,137.4,368.9,152.1,372.9,171z M90,373.4c-0.1,12-9.8,21.6-21.8,21.6H41.8    c-12,0-21.7-9.6-21.8-21.6v-26.2c6,3.9,13.9,5.8,21.8,5.8H90V373.4z M448,373.4c-0.1,12-9.8,21.6-21.8,21.6h-26.4    c-12,0-21.7-9.7-21.8-21.6V353h48.2c7.9,0,15.8-1.9,21.8-5.8V373.4z M426.2,333H41.8c-11.9,0.1-21.7-9.4-21.8-21.4v-78.8    c0-11,4.9-21.5,13.3-28.6c0.1-0.1,0.3-0.3,0.4-0.4L47.3,191H426l9.6,10.3c0.1,0.2,0.4,0.3,0.5,0.5c7.5,7.1,11.8,17,11.8,27.3v82.5    h0.1C447.9,323.5,438.1,333.1,426.2,333z"></path>
 </g>
 </g><g><g><path d="M132,231H57c-5.5,0-10,4.5-10,10v52c0,5.5,4.5,10,10,10h75c5.5,0,10-4.5,10-10v-52C142,235.5,137.5,231,132,231z M122,283    H67v-32h55V283z"></path>
 </g>
@@ -175,119 +213,134 @@
 </g><g><g><path d="M282.3,242h-96.6c-5.5,0-10,4.5-10,10s4.5,10,10,10h96.6c5.5,0,10-4.5,10-10S287.8,242,282.3,242z"></path>
 </g>
 </g></svg></span>
-          <h2 class="u-align-center u-custom-font u-font-lato u-text u-text-1">Car Servicing&nbsp;<br>
-          </h2>
-          <p class="u-align-center u-text u-text-2">If you’re concerned about a fault with your car, our mechanics can carry out a number of different car repairs to help keep your car on the road and running smoothly. We offer a free car repair check to help diagnose the problem.</p>
-        </div>
-      </div>
-      <div class="u-container-style u-image u-layout-cell u-right-cell u-size-36 u-image-1">
-        <div class="u-container-layout u-valign-bottom u-container-layout-2">
-          <p class="u-text u-text-3">Image from <a href="https://www.freepik.com/free-photos-vectors/car" target="_blank"><b>Freepik</b>
-            </a>
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-</section>
-<section class="u-clearfix u-gradient u-section-7" id="carousel_8067">
-<div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-  <div class="u-clearfix u-expanded-width u-gutter-30 u-layout-wrap u-layout-wrap-1">
-    <div class="u-layout">
-      <div class="u-layout-row">
-        <div class="u-align-left-sm u-align-left-xs u-container-style u-layout-cell u-left-cell u-size-20 u-size-20-md u-layout-cell-1">
-          <div class="u-container-layout u-valign-top u-container-layout-1">
-            <h3 class="u-custom-font u-font-lato u-text u-text-body-alt-color u-text-1">Taxi</h3>
-            <nuxt-img src="/b5e94a25741dca619aa54b1f08ab425d.png" alt="" class="u-image u-image-default u-image-1" data-image-width="275" data-image-height="200"/>
-            <h6 class="u-text u-text-body-alt-color u-text-2">The taxi you know</h6>
-            <ul class="u-text u-text-body-alt-color u-text-3">
-              <li>Price based on taximeter </li>
-              <li>Executed by local taxi fleets </li>
-              <li>Online and offline payment </li>
-              <li>24/7 support hotline</li>
-            </ul>
-          </div>
-        </div>
-        <div class="u-container-style u-layout-cell u-size-20 u-size-20-md u-layout-cell-2">
-          <div class="u-container-layout u-valign-top u-container-layout-2">
-            <h3 class="u-custom-font u-font-lato u-text u-text-body-alt-color u-text-4">Economy+</h3>
-            <nuxt-img src="/975255a895e0efd3c75c073d5e0e89f3.png" alt="" class="u-image u-image-default u-image-2"/>
-            <h6 class="u-text u-text-body-alt-color u-text-5">For budget travelers</h6>
-            <ul class="u-text u-text-body-alt-color u-text-6">
-              <li>Fixed price&nbsp;</li>
-              <li>English-speaking driver&nbsp;</li>
-              <li>Automated flight and train tracking&nbsp;</li>
-              <li>45 minutes waiting time after landing&nbsp;</li>
-              <li>Pickup with name sign in arrivals hall</li>
-              <li>Children seats available on request&nbsp;</li>
-              <li>Online and offline payment&nbsp;</li>
-              <li>24/7 support hotline&nbsp;<br>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div class="u-container-style u-layout-cell u-right-cell u-size-20 u-size-20-md u-layout-cell-3">
-          <div class="u-container-layout u-valign-top u-container-layout-3">
-            <h3 class="u-custom-font u-font-lato u-text u-text-body-alt-color u-text-7">Business Class</h3>
-            <nuxt-img src="/69ab11c48df6f674467cc0f1db1a99fc.png" alt="" class="u-expanded-width u-image u-image-default u-image-3"/>
-            <h6 class="u-text u-text-body-alt-color u-text-8">Business traveler's favourite</h6>
-            <ul class="u-text u-text-body-alt-color u-text-9">
-              <li>Black car guaranteed</li>
-              <li>Fixed price</li>
-              <li>English-speaking driver</li>
-              <li>Automated flight and train tracking</li>
-              <li>45 minutes waiting time after landing</li>
-              <li>Pickup with name sign in arrivals hall</li>
-              <li>Children seats available on request</li>
-              <li>Online and offline payment</li>
-              <li>24/7 support hotline<br>
-              </li>
-            </ul>
+                <h2 class="u-align-center u-custom-font u-font-lato u-text u-text-1">Car Servicing&nbsp;<br>
+                </h2>
+                <p class="u-align-center u-text u-text-2">If you’re concerned about a fault with your car, our mechanics
+                  can carry out a number of different car repairs to help keep your car on the road and running
+                  smoothly. We offer a free car repair check to help diagnose the problem.</p>
+              </div>
+            </div>
+            <div class="u-container-style u-image u-layout-cell u-right-cell u-size-36 u-image-1">
+              <div class="u-container-layout u-valign-bottom u-container-layout-2">
+                <p class="u-text u-text-3">Image from <a href="https://www.freepik.com/free-photos-vectors/car"
+                                                         target="_blank"><b>Freepik</b>
+                </a>
+                </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </div>
-</div>
-</section>
-<section class="u-clearfix u-palette-1-base u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-section-8" id="carousel_ef51">
-<div class="u-clearfix u-layout-wrap u-layout-wrap-1">
-  <div class="u-layout">
-    <div class="u-layout-row">
-      <div class="u-container-style u-image u-image-contain u-layout-cell u-left-cell u-size-40 u-image-1">
-        <div class="u-container-layout u-container-layout-1"></div>
-      </div>
-      <div class="u-align-right u-container-style u-layout-cell u-right-cell u-size-20 u-layout-cell-2">
-        <div class="u-container-layout u-valign-middle u-container-layout-2">
-          <h2 class="u-custom-font u-font-lato u-text u-text-white u-text-1">Safe. Relaxing. Good to ride in. Subtly decorated.</h2>
+    </section>
+    <section class="u-clearfix u-gradient u-section-7" id="carousel_8067">
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <div class="u-clearfix u-expanded-width u-gutter-30 u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout">
+            <div class="u-layout-row">
+              <div
+                  class="u-align-left-sm u-align-left-xs u-container-style u-layout-cell u-left-cell u-size-20 u-size-20-md u-layout-cell-1">
+                <div class="u-container-layout u-valign-top u-container-layout-1">
+                  <h3 class="u-custom-font u-font-lato u-text u-text-body-alt-color u-text-1">Taxi</h3>
+                  <img src="@/assets/images/b5e94a25741dca619aa54b1f08ab425d.png" alt="" class="u-image u-image-default u-image-1"
+                            data-image-width="275" data-image-height="200"/>
+                  <h6 class="u-text u-text-body-alt-color u-text-2">The taxi you know</h6>
+                  <ul class="u-text u-text-body-alt-color u-text-3">
+                    <li>Price based on taximeter</li>
+                    <li>Executed by local taxi fleets</li>
+                    <li>Online and offline payment</li>
+                    <li>24/7 support hotline</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-size-20 u-size-20-md u-layout-cell-2">
+                <div class="u-container-layout u-valign-top u-container-layout-2">
+                  <h3 class="u-custom-font u-font-lato u-text u-text-body-alt-color u-text-4">Economy+</h3>
+                  <img src="@/assets/images/975255a895e0efd3c75c073d5e0e89f3.png" alt=""
+                            class="u-image u-image-default u-image-2"/>
+                  <h6 class="u-text u-text-body-alt-color u-text-5">For budget travelers</h6>
+                  <ul class="u-text u-text-body-alt-color u-text-6">
+                    <li>Fixed price&nbsp;</li>
+                    <li>English-speaking driver&nbsp;</li>
+                    <li>Automated flight and train tracking&nbsp;</li>
+                    <li>45 minutes waiting time after landing&nbsp;</li>
+                    <li>Pickup with name sign in arrivals hall</li>
+                    <li>Children seats available on request&nbsp;</li>
+                    <li>Online and offline payment&nbsp;</li>
+                    <li>24/7 support hotline&nbsp;<br>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="u-container-style u-layout-cell u-right-cell u-size-20 u-size-20-md u-layout-cell-3">
+                <div class="u-container-layout u-valign-top u-container-layout-3">
+                  <h3 class="u-custom-font u-font-lato u-text u-text-body-alt-color u-text-7">Business Class</h3>
+                  <img src="@/assets/images/69ab11c48df6f674467cc0f1db1a99fc.png" alt=""
+                            class="u-expanded-width u-image u-image-default u-image-3"/>
+                  <h6 class="u-text u-text-body-alt-color u-text-8">Business traveler's favourite</h6>
+                  <ul class="u-text u-text-body-alt-color u-text-9">
+                    <li>Black car guaranteed</li>
+                    <li>Fixed price</li>
+                    <li>English-speaking driver</li>
+                    <li>Automated flight and train tracking</li>
+                    <li>45 minutes waiting time after landing</li>
+                    <li>Pickup with name sign in arrivals hall</li>
+                    <li>Children seats available on request</li>
+                    <li>Online and offline payment</li>
+                    <li>24/7 support hotline<br>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
-  </div>
-</div>
-</section>
-<section class="u-align-center u-clearfix u-image u-shading u-section-9" src="" data-image-width="256" data-image-height="256" id="sec-697c">
-<div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-  <h1 class="u-text u-text-default u-title u-text-1">INTUITIVE</h1>
-  <p class="u-large-text u-text u-text-default u-text-variant u-text-2">Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</p>
-</div>
-</section>
+    </section>
+    <section
+        class="u-clearfix u-palette-1-base u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-section-8"
+        id="carousel_ef51">
+      <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
+        <div class="u-layout">
+          <div class="u-layout-row">
+            <div class="u-container-style u-image u-image-contain u-layout-cell u-left-cell u-size-40 u-image-1">
+              <div class="u-container-layout u-container-layout-1"></div>
+            </div>
+            <div class="u-align-right u-container-style u-layout-cell u-right-cell u-size-20 u-layout-cell-2">
+              <div class="u-container-layout u-valign-middle u-container-layout-2">
+                <h2 class="u-custom-font u-font-lato u-text u-text-white u-text-1">Safe. Relaxing. Good to ride in.
+                  Subtly decorated.</h2>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-image u-shading u-section-9" src="" data-image-width="256"
+             data-image-height="256" id="sec-697c">
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <h1 class="u-text u-text-default u-title u-text-1">INTUITIVE</h1>
+        <p class="u-large-text u-text u-text-default u-text-variant u-text-2">Sample text. Lorem ipsum dolor sit amet,
+          consectetur adipiscing elit nullam nunc justo sagittis suscipit ultrices.</p>
+      </div>
+    </section>
 
 
-<footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-77b4"><div class="u-clearfix u-sheet u-sheet-1">
-  <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
-</div></footer>
-<section class="u-backlink u-clearfix u-grey-80">
-<a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
-  <span>Website Templates</span>
-</a>
-<p class="u-text">
-  <span>created with</span>
-</p>
-<a class="u-link" href="" target="_blank">
-  <span>Website Builder Software</span>
-</a>. 
-</section>
-</div>
+    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-77b4">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the text box. Click again or
+          double click to start editing the text.</p>
+      </div>
+    </footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
+        <span>Website Templates</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="" target="_blank">
+        <span>Website Builder Software</span>
+      </a>.
+    </section>
+  </div>
 </template>
