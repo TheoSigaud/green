@@ -1,8 +1,0 @@
-{
-  "devDependencies": {
-    "@nuxt/image-edge": "^1.0.0-28008586.381b906"
-  },
-  "dependencies": {
-    "nuxt-unhead": "^1.4.15"
-  }
-}
