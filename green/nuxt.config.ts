@@ -7,6 +7,7 @@ export default defineNuxtConfig({
   modules: [
     'nuxt-purgecss',
     ['@nuxtjs/robots', { configPath: "~/robots.config" }],
+    '@nuxt/image-edge',
   ],
   image: {
     // The screen sizes predefined by `@nuxt/image`:
