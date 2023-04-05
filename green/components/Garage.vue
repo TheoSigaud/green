@@ -22,7 +22,7 @@
                     </div>
                     <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-20 u-white u-layout-cell-3">
                         <div class="u-container-layout u-valign-bottom u-container-layout-3">
-                            <img class="u-expanded-width u-image u-image-2" src="@/assets/images/pexelsphoto3806288.webp" alt="car"/>
+                            <nuxt-img src="/pexelsphoto3806288.webp" class="u-expanded-width u-image u-image-2" alt="car" />
                         </div>
                     </div>
                 </div>

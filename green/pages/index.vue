@@ -1,0 +1,13 @@
+<template>
+    <div>
+        <Hero/>
+        <Model/>
+        <Services/>
+        <SecondService/>
+        <Garage/>
+        <Reparations/>
+        <Plans/>
+        <Dark/>
+        <Footer/>
+    </div>
+</template>
