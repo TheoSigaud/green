@@ -20,11 +20,6 @@
                                 consectetur nulla, sit amet auctor augue ligula ac ipsum. Curabitur elementum...</p>
                         </div>
                     </div>
-                    <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-20 u-white u-layout-cell-3">
-                        <div class="u-container-layout u-valign-bottom u-container-layout-3">
-                            <nuxt-img loading="lazy" src="/pexelsphoto3806288.webp" height="490px" width="100%" sizes="sm:640px md:768px lg:490px" class="u-expanded-width u-image u-image-2" alt="car" />
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
