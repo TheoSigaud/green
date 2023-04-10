@@ -36,6 +36,44 @@ export default defineNuxtConfig({
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
         { name: 'description', content: 'Trouvez la voiture de vos rêves ! Découvrez notre large sélection de véhicules neufs et d\'occasion, ainsi que nos offres de financement avantageuses. Faites confiance à notre équipe de professionnels pour vous accompagner dans votre recherche et profitez d\'un service de qualité. Visitez notre site dès maintenant pour en savoir plus' }
       ],
+      link: [
+        {
+          rel: 'stylesheet',
+          href: 'https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap'
+        }
+      ],
+      script: [
+        {
+          src: '@assets/js/jquery-2.1.0.min.js'
+        },
+        {
+          src: '@assets/js/bootstrap.min.js'
+        },
+        {
+          src: '@assets/js/popper.js'
+        },
+        {
+          src: '@assets/js/scrollreveal.js'
+        },
+        {
+          src: '@assets/js/waypoints.min.js'
+        },
+        {
+          src: '@assets/js/jquery.counterup.min.js'
+        },
+        {
+          src: '@assets/js/imgfix.min.js'
+        },
+        {
+          src: '@assets/js/mixitup.js'
+        },
+        {
+          src: '@assets/js/accordions.js'
+        },
+        {
+          src: '@assets/js/custom.js'
+        },
+      ],
     }
   }
 })

@@ -63,7 +63,7 @@
                             </p>
 
                             <ul class="social-icons">
-                                <li><a href="car-details.html">+ View Car</a></li>
+                                <li><a href="/car-details">+ View Car</a></li>
                             </ul>
                         </div>
                     </div>
@@ -87,7 +87,7 @@
                             </p>
 
                             <ul class="social-icons">
-                                <li><a href="car-details.html">+ View Car</a></li>
+                                <li><a href="/car-details">+ View Car</a></li>
                             </ul>
                         </div>
                     </div>
@@ -111,7 +111,7 @@
                             </p>
 
                             <ul class="social-icons">
-                                <li><a href="car-details.html">+ View Car</a></li>
+                                <li><a href="/car-details">+ View Car</a></li>
                             </ul>
                         </div>
                     </div>
@@ -136,7 +136,7 @@
                             </p>
 
                             <ul class="social-icons">
-                                <li><a href="car-details.html">+ View Car</a></li>
+                                <li><a href="/car-details">+ View Car</a></li>
                             </ul>
                         </div>
                     </div>
@@ -160,7 +160,7 @@
                             </p>
 
                             <ul class="social-icons">
-                                <li><a href="car-details.html">+ View Car</a></li>
+                                <li><a href="/car-details">+ View Car</a></li>
                             </ul>
                         </div>
                     </div>
@@ -184,7 +184,7 @@
                             </p>
 
                             <ul class="social-icons">
-                                <li><a href="car-details.html">+ View Car</a></li>
+                                <li><a href="/car-details">+ View Car</a></li>
                             </ul>
                         </div>
                     </div>
