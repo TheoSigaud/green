@@ -79,10 +79,6 @@
   .u-section-1 .u-sheet-1 {
     min-height: 657px;
   }
-  .u-section-1 {
-    background-image: url("@/assets/images/mobile-hero.webp");
-    background-position: 50% 100%;
-  }
 
   .u-section-1 .u-text-1 {
     font-size: 6rem;
@@ -190,11 +186,6 @@
     min-height: 364px;
   }
 
-  .u-section-1 {
-    background-image: url("@/assets/images/mobile-hero.webp");
-    background-position: 50% 100%;
-  }
-
   .u-section-2 .u-image-1 {
     min-height: 286px;
   }
@@ -227,11 +218,6 @@
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
     min-height: 258px;
-  }
-
-  .u-section-1 {
-    background-image: url("@/assets/images/mobile-hero.webp");
-    background-position: 50% 100%;
   }
 
   .u-section-2 .u-image-1 {
@@ -652,7 +638,7 @@
 }
 
 .u-section-5 .u-image-2 {
-  /*height: 490px;*/
+  height: 490px;
   box-shadow: 5px 5px 36px 0 rgba(0,0,0,0.55);
   margin: -203px auto 0 -30px;
 }
@@ -684,7 +670,7 @@
   }
 
   .u-section-5 .u-image-2 {
-    /*height: 445px;*/
+    height: 445px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -713,7 +699,7 @@
   }
 
   .u-section-5 .u-image-2 {
-    /*height: 341px;*/
+    height: 341px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -753,7 +739,7 @@
   }
 
   .u-section-5 .u-image-2 {
-    /*height: 767px;*/
+    height: 767px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -774,7 +760,7 @@
   }
 
   .u-section-5 .u-image-2 {
-    /*height: 483px;*/
+    height: 483px;
     margin-right: initial;
     margin-left: initial;
   }
