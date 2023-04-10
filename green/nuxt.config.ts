@@ -3,6 +3,9 @@ export default defineNuxtConfig({
   css : [
     '@/assets/css/nicepage.css',
     '@/assets/css/Page-2.css',
+    '@/assets/css/style.css',
+    '@/assets/css/bootstrap.min.css',
+    '@/assets/css/font-awesome.css'
   ],
   modules: [
     'nuxt-purgecss',
