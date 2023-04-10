@@ -79,6 +79,10 @@
   .u-section-1 .u-sheet-1 {
     min-height: 657px;
   }
+  .u-section-1 {
+    background-image: url("@/assets/images/mobile-hero.webp");
+    background-position: 50% 100%;
+  }
 
   .u-section-1 .u-text-1 {
     font-size: 6rem;
@@ -186,6 +190,11 @@
     min-height: 364px;
   }
 
+  .u-section-1 {
+    background-image: url("@/assets/images/mobile-hero.webp");
+    background-position: 50% 100%;
+  }
+
   .u-section-2 .u-image-1 {
     min-height: 286px;
   }
@@ -218,6 +227,11 @@
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
     min-height: 258px;
+  }
+
+  .u-section-1 {
+    background-image: url("@/assets/images/mobile-hero.webp");
+    background-position: 50% 100%;
   }
 
   .u-section-2 .u-image-1 {
