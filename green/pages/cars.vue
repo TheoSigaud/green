@@ -4,16 +4,15 @@
     
     
     
-    <!-- ***** Header Area Start ***** -->
     <header class="header-area header-sticky">
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <nav class="main-nav">
-                        <a href="/" class="logo">Car Dealer<em> Website</em></a>
+                        <a href="/" class="logo">Green<em> IT</em></a>
                         <ul class="nav">
                             <li><a href="/">Home</a></li>
-                            <li><a href="cars.html" class="active">Cars</a></li>
+                            <li><a href="/cars" class="active">Cars</a></li>
                         </ul>        
                         <a class='menu-trigger'>
                             <span>Menu</span>
