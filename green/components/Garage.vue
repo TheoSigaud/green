@@ -1,6 +1,6 @@
 <template>
     <section class="u-align-center u-clearfix u-palette-2-base u-valign-top u-section-5" id="carousel_7de1">
-        <nuxt-img src="/pexelsphoto3806275.webp" class="u-align-left u-expanded-width u-image u-left-0 u-image-1" alt="car" />
+        <nuxt-img src="/pexelsphoto3806275.webp" sizes="sm:100vw md:50vw lg:400px" class="u-align-left u-expanded-width u-image u-left-0 u-image-1" alt="car" />
         <div class="u-clearfix u-gutter-0 u-layout-wrap u-layout-wrap-1">
             <div class="u-layout">
                 <div class="u-layout-row">
@@ -22,7 +22,7 @@
                     </div>
                     <div class="u-align-left u-container-style u-layout-cell u-right-cell u-size-20 u-white u-layout-cell-3">
                         <div class="u-container-layout u-valign-bottom u-container-layout-3">
-                            <nuxt-img src="/pexelsphoto3806288.webp" class="u-expanded-width u-image u-image-2" alt="car" />
+                            <nuxt-img src="/pexelsphoto3806288.webp" sizes="sm:100vw md:50vw lg:400px" class="u-expanded-width u-image u-image-2" alt="car" />
                         </div>
                     </div>
                 </div>
