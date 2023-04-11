@@ -2,9 +2,6 @@
   background-image: url("@/assets/images/xc60sqoosh.webp");
   background-position: 50% 100%;
 }
- .u-section-1 .hero-img {
-   display: none;
- }
 
 .u-section-1 .u-sheet-1 {
   min-height: 760px;
@@ -60,12 +57,7 @@
 
 @media (max-width: 767px) {
    .u-section-1 {
-    background-image: none;
-     background-color: #0f0f0f;
-   }
-
-  .u-section-1 .hero-img {
-    display: block;
+    background-position: 50.09% 0%;
   }
 
   .u-section-1 .u-sheet-1 {
@@ -86,15 +78,6 @@
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
     min-height: 657px;
-  }
-
-  .u-section-1 {
-    background-image: none;
-    background-color: #0f0f0f;
-  }
-
-  .u-section-1 .hero-img {
-    display: block;
   }
 
   .u-section-1 .u-text-1 {
