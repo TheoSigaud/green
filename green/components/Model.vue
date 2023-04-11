@@ -2,7 +2,7 @@
     <section class="u-clearfix u-gradient" id="carousel_af51">
         <div class="u-clearfix u-sheet u-sheet-1">
             <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1" style="text-align: center">
-                <nuxt-img max-width="700px" src="/717db336de0fc087cdf0586a02d25594.webp" sizes="sm:100vw md:50vw lg:800px" alt="car" />
+                <nuxt-img width="auto" height="auto" max-width="700px" src="/717db336de0fc087cdf0586a02d25594.webp" sizes="sm:100vw md:50vw lg:800px" alt="car" />
                 <div class="u-layout">
                     <div class="u-layout-row" style="text-align: center">
 
