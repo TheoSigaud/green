@@ -63,7 +63,7 @@
                             </p>
 
                             <ul class="social-icons">
-                                <li><a href="/car-details">+ View Car</a></li>
+                                <li><a href="/item">+ View Car</a></li>
                             </ul>
                         </div>
                     </div>
@@ -71,7 +71,7 @@
                 <div class="col-lg-4">
                     <div class="trainer-item">
                         <div class="image-thumb">
-                            <nuxt-img src="assets/images/product-2-720x480.jpg" alt=""/>
+                            <nuxt-img src="/product-2-720x480.jpg" alt="car"/>
                         </div>
                         <div class="down-content">
                             <span>
@@ -87,7 +87,7 @@
                             </p>
 
                             <ul class="social-icons">
-                                <li><a href="/car-details">+ View Car</a></li>
+                                <li><a href="/item">+ View Car</a></li>
                             </ul>
                         </div>
                     </div>
@@ -111,7 +111,7 @@
                             </p>
 
                             <ul class="social-icons">
-                                <li><a href="/car-details">+ View Car</a></li>
+                                <li><a href="/item">+ View Car</a></li>
                             </ul>
                         </div>
                     </div>
@@ -136,7 +136,7 @@
                             </p>
 
                             <ul class="social-icons">
-                                <li><a href="/car-details">+ View Car</a></li>
+                                <li><a href="/item">+ View Car</a></li>
                             </ul>
                         </div>
                     </div>
@@ -160,7 +160,7 @@
                             </p>
 
                             <ul class="social-icons">
-                                <li><a href="/car-details">+ View Car</a></li>
+                                <li><a href="/item">+ View Car</a></li>
                             </ul>
                         </div>
                     </div>
@@ -184,7 +184,7 @@
                             </p>
 
                             <ul class="social-icons">
-                                <li><a href="/car-details">+ View Car</a></li>
+                                <li><a href="/item">+ View Car</a></li>
                             </ul>
                         </div>
                     </div>
