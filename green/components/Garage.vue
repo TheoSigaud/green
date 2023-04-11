@@ -1,6 +1,6 @@
 <template>
     <section class="u-align-center u-clearfix u-palette-2-base u-valign-top u-section-5" id="carousel_7de1">
-        <nuxt-img loading="lazy" src="/pexelsphoto3806275.webp" sizes="sm:100vw md:50vw lg:400px" class="u-align-left u-expanded-width u-image u-left-0 u-image-1" alt="car" />
+        <nuxt-img loading="lazy" src="/pexelsphoto3806275.webp" sizes="sm:100vw md:50vw lg:800px" class="u-align-left u-expanded-width u-image u-left-0 u-image-1" alt="car" />
         <div class="u-clearfix u-gutter-0 u-layout-wrap u-layout-wrap-1">
             <div class="u-layout">
                 <div class="u-layout-row">
