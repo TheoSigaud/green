@@ -1,6 +1,7 @@
 <template>
     <div>
         <Hero/>
+        <Video/>
         <Model/>
         <Services/>
         <SecondService/>
