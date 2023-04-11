@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05664d9d-70c2-4fce-9571-5d45cb2424b1" name="Changes" comment="Delete image hero">
+      <change beforePath="$PROJECT_DIR$/green/assets/css/Page-2.css" beforeDir="false" afterPath="$PROJECT_DIR$/green/assets/css/Page-2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green/assets/images/717db336de0fc087cdf0586a02d25594.webp" beforeDir="false" afterPath="$PROJECT_DIR$/green/assets/images/717db336de0fc087cdf0586a02d25594.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green/assets/images/dsfdfmin.webp" beforeDir="false" afterPath="$PROJECT_DIR$/green/assets/images/dsfdfmin.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green/assets/images/lamborghinicarspeedprestige38570.webp" beforeDir="false" afterPath="$PROJECT_DIR$/green/assets/images/lamborghinicarspeedprestige38570.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/green/assets/images/mobile-hero.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/green/assets/images/pexelsphoto3874342.webp" beforeDir="false" afterPath="$PROJECT_DIR$/green/assets/images/pexelsphoto3874342.webp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OFF0tAN3Rn1tlZWvEylP5VgISV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/home/theo-sigaud/WebStorm-223.8617.44/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/green/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05664d9d-70c2-4fce-9571-5d45cb2424b1" name="Changes" comment="" />
+      <created>1681148207249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681148207249</updated>
+      <workItem from="1681148211992" duration="3781000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test size">
+      <created>1681148485291</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681148485291</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add lazy mode">
+      <created>1681149031572</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681149031572</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Change size">
+      <created>1681149543792</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681149543792</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Change size">
+      <created>1681149901815</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681149901815</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Change size">
+      <created>1681150168980</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681150168980</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Change size">
+      <created>1681150311085</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681150311085</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Change size">
+      <created>1681150554446</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681150554446</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Change size">
+      <created>1681150630593</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681150630593</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Delete image">
+      <created>1681150709984</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681150709984</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Delete image hero">
+      <created>1681151097982</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681151097982</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test size" />
+    <MESSAGE value="Add lazy mode" />
+    <MESSAGE value="Change size" />
+    <MESSAGE value="Delete image" />
+    <MESSAGE value="Delete image hero" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete image hero" />
+  </component>
+</project>
