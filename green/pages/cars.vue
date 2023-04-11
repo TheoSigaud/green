@@ -9,7 +9,7 @@
             <div class="row">
                 <div class="col-12">
                     <nav class="main-nav">
-                        <a href="/" class="logo">Green<em> IT</em></a>
+                        <a href="/" class="logo">Green<em> Concession</em></a>
                         <ul class="nav">
                             <li><a href="/">Home</a></li>
                             <li><a href="/cars" class="active">Cars</a></li>
@@ -23,7 +23,7 @@
         </div>
     </header>
 
-    <section class="section section-bg" id="call-to-action" style="background-image: url(assets/images/banner-image-1-1920x500.jpg)">
+    <section class="section section-bg" id="call-to-action" style="background-image: url('/banner-image-1-1920x500.jpg')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 offset-lg-1">
@@ -47,7 +47,7 @@
                 <div class="col-lg-4">
                     <div class="trainer-item">
                         <div class="image-thumb">
-                            <nuxt-img src="assets/images/product-1-720x480.jpg" alt=""/>
+                            <nuxt-img src="/product-1-720x480.webp" alt=""/>
                         </div>
                         <div class="down-content">
                             <span>
@@ -71,7 +71,7 @@
                 <div class="col-lg-4">
                     <div class="trainer-item">
                         <div class="image-thumb">
-                            <nuxt-img src="/product-2-720x480.jpg" alt="car"/>
+                            <nuxt-img src="/product-2-720x480.webp" alt="car"/>
                         </div>
                         <div class="down-content">
                             <span>
@@ -95,7 +95,7 @@
                 <div class="col-lg-4">
                     <div class="trainer-item">
                         <div class="image-thumb">
-                            <nuxt-img src="/product-3-720x480.jpg" alt=""/>
+                            <nuxt-img src="/product-3-720x480.webp" alt=""/>
                         </div>
                         <div class="down-content">
                             <span>
@@ -120,7 +120,7 @@
                 <div class="col-lg-4">
                     <div class="trainer-item">
                         <div class="image-thumb">
-                            <nuxt-img src="assets/images/product-4-720x480.jpg" alt=""/>
+                            <nuxt-img src="/product-4-720x480.webp" alt=""/>
                         </div>
                         <div class="down-content">
                             <span>
@@ -144,7 +144,7 @@
                 <div class="col-lg-4">
                     <div class="trainer-item">
                         <div class="image-thumb">
-                            <nuxt-img src="assets/images/product-5-720x480.jpg" alt=""/>
+                            <nuxt-img src="/product-5-720x480.webp" alt=""/>
                         </div>
                         <div class="down-content">
                             <span>
@@ -168,7 +168,7 @@
                 <div class="col-lg-4">
                     <div class="trainer-item">
                         <div class="image-thumb">
-                            <nuxt-img src="assets/images/product-6-720x480.jpg" alt=""/>
+                            <nuxt-img src="/product-6-720x480.webp" alt=""/>
                         </div>
                         <div class="down-content">
                             <span>

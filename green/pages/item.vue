@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-12">
                     <nav class="main-nav">
-                        <a href="/" class="logo">Green<em> IT</em></a>
+                        <a href="/" class="logo">Green<em> Concession</em></a>
                         <ul class="nav">
                             <li><a href="/">Home</a></li>
                             <li><a href="/cars" class="active">Cars</a></li>
@@ -19,7 +19,7 @@
         </div>
     </header>
 
-    <section class="section section-bg" id="call-to-action" style="background-image: url('/assets/images/banner-image-1-1920x500.jpg')">
+    <section class="section section-bg" id="call-to-action" style="background-image: url('/banner-image-1-1920x500.webp')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 offset-lg-1">
@@ -47,13 +47,13 @@
               </ol>
               <div class="carousel-inner">
                 <div class="carousel-item active">
-                  <img class="d-block w-100" src="assets/images/car-image-1-1200x600.jpg" alt="First slide">
+                  <img class="d-block w-100" src="/car-image-1-1200x600.webp" alt="First slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="assets/images/car-image-1-1200x600.jpg" alt="Second slide">
+                  <img class="d-block w-100" src="/car-image-1-1200x600.webp" alt="Second slide">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="assets/images/car-image-1-1200x600.jpg" alt="Third slide">
+                  <img class="d-block w-100" src="/car-image-1-1200x600.webp" alt="Third slide">
                 </div>
               </div>
               <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -217,4 +217,5 @@
         </div>
     </section>
     </body>
+
 </template>

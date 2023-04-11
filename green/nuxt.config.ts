@@ -4,7 +4,6 @@ export default defineNuxtConfig({
     '@/assets/css/nicepage.css',
     '@/assets/css/Page-2.css',
     '@/assets/css/style.css',
-    '@/assets/css/font-awesome.css'
   ],
   modules: [
     'nuxt-purgecss',
@@ -44,35 +43,10 @@ export default defineNuxtConfig({
           rel: 'stylesheet',
           href: 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css'
         },
-      ],
-      script: [
         {
-          src: 'assets/js/jquery-2.1.0.min.js'
-        },
-        {
-          src: 'assets/js/bootstrap.min.js'
-        },
-        {
-          src: 'assets/js/scrollreveal.js'
-        },
-        {
-          src: 'assets/js/waypoints.min.js'
-        },
-        {
-          src: 'assets/js/jquery.counterup.min.js'
-        },
-        {
-          src: 'assets/js/imgfix.min.js'
-        },
-        {
-          src: 'assets/js/mixitup.js'
-        },
-        {
-          src: 'assets/js/accordions.js'
-        },
-        {
-          src: 'assets/js/custom.js'
-        },
+          rel: 'stylesheet',
+          href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css'
+        }
       ],
     }
   }
