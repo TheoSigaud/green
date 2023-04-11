@@ -4,6 +4,7 @@
             <h1 class="u-align-center-xs u-custom-font u-font-lato u-text u-text-body-alt-color u-title u-text-1">xc60</h1>
             <p class="u-align-center-xs u-custom-font u-text u-text-body-alt-color u-text-font u-text-2">A safe way to move
                 a family around in style.</p>
+            <nuxt-img src="/hero.webp" height="400px" class="hero-img" style="margin: auto"/>
         </div>
     </section>
 </template>
