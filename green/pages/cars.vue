@@ -23,7 +23,7 @@
         </div>
     </header>
 
-    <section class="section section-bg" id="call-to-action" style="background-image: url('/banner-image-1-1920x500.jpg')">
+    <section class="section section-bg" id="call-to-action" style="background-image: url('/banner-image-1-1920x500.webp')">
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 offset-lg-1">
