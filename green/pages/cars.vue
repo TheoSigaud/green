@@ -92,7 +92,7 @@
                     <div class="col-lg-4">
                         <div class="trainer-item">
                             <div class="image-thumb">
-                                <nuxt-img sizes="sm:100vw md:50vw lg:800px" src="/product-3-720x480.webp" alt="car"/>
+                                <nuxt-img loading="lazy" sizes="sm:100vw md:50vw lg:800px" src="/product-3-720x480.webp" alt="car"/>
                             </div>
                             <div class="down-content">
                             <span>
@@ -117,7 +117,7 @@
                     <div class="col-lg-4">
                         <div class="trainer-item">
                             <div class="image-thumb">
-                                <nuxt-img sizes="sm:100vw md:50vw lg:800px" src="/product-4-720x480.webp" alt="car"/>
+                                <nuxt-img loading="lazy" sizes="sm:100vw md:50vw lg:800px" src="/product-4-720x480.webp" alt="car"/>
                             </div>
                             <div class="down-content">
                             <span>
@@ -141,7 +141,7 @@
                     <div class="col-lg-4">
                         <div class="trainer-item">
                             <div class="image-thumb">
-                                <nuxt-img sizes="sm:100vw md:50vw lg:800px" src="/product-5-720x480.webp" alt="car"/>
+                                <nuxt-img loading="lazy" sizes="sm:100vw md:50vw lg:800px" src="/product-5-720x480.webp" alt="car"/>
                             </div>
                             <div class="down-content">
                             <span>
@@ -165,7 +165,7 @@
                     <div class="col-lg-4">
                         <div class="trainer-item">
                             <div class="image-thumb">
-                                <nuxt-img sizes="sm:100vw md:50vw lg:800px" src="/product-6-720x480.webp" alt="car"/>
+                                <nuxt-img loading="lazy" sizes="sm:100vw md:50vw lg:800px" src="/product-6-720x480.webp" alt="car"/>
                             </div>
                             <div class="down-content">
                             <span>
