@@ -69,18 +69,19 @@
             <br>
             <br>
 
+            
             <div class="row" id="tabs">
               <div class="col-lg-4">
-                <ul>
-                  <li><a href='#tabs-1'><i class="fa fa-cog"></i> Vehicle Specs</a></li>
-                  <li><a href='#tabs-2'><i class="fa fa-info-circle"></i> Vehicle Description</a></li>
-                  <li><a href='#tabs-3'><i class="fa fa-plus-circle"></i> Vehicle Extras</a></li>
-                  <li><a href='#tabs-4'><i class="fa fa-phone"></i> Contact Details</a></li>
+                <ul class="nav flex-column nav-pills" id="v-pills-tab" role="tablist">
+                  <li><a class="nav-link active" id="v-pills-un-tab" data-toggle="pill" href="#v-pills-un" role="tab" aria-controls="v-pills-un" aria-selected="true"><i class="fa fa-cog"></i> Vehicle Specs</a></li>
+                  <li><a class="nav-link" id="v-pills-deux-tab" data-toggle="pill" href="#v-pills-deux" role="tab" aria-controls="v-pills-deux" aria-selected="false"><i class="fa fa-info-circle"></i> Vehicle Description</a></li>
+                  <li><a class="nav-link" id="v-pills-trois-tab" data-toggle="pill" href="#v-pills-trois" role="tab" aria-controls="v-pills-trois" aria-selected="false"><i class="fa fa-plus-circle"></i> Vehicle Extras</a></li>
+                  <li><a class="nav-link" id="v-pills-quatre-tab" data-toggle="pill" href="#v-pills-quatre" role="tab" aria-controls="v-pills-quatre" aria-selected="false"><i class="fa fa-phone"></i> Contact Details</a></li>
                 </ul>
               </div>
               <div class="col-lg-8">
-                <section class='tabs-content' style="width: 100%;">
-                  <article id='tabs-1'>
+                <section class="tab-content" id="v-pills-tabContent" style="width: 100%;">
+                  <article  class="tab-pane fade show active" id="v-pills-un" role="tabpanel" aria-labelledby="v-pills-un-tab">
                     <h4>Vehicle Specs</h4>
 
                     <div class="row">
@@ -158,12 +159,12 @@
                        </div>
                     </div>
                   </article>
-                  <article id='tabs-2'>
+                  <article  class="tab-pane fade" id="v-pills-deux" role="tabpanel" aria-labelledby="v-pills-deux-tab">
                     <h4>Vehicle Description</h4>
                     
                     <p>- Colour coded bumpers <br> - Tinted glass <br> - Immobiliser <br> - Central locking - remote <br> - Passenger airbag <br> - Electric windows <br> - Rear head rests <br> - Radio <br> - CD player <br> - Ideal first car <br> - Warranty <br> - High level brake light <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco                         laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat                     cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p> 
                    </article>
-                  <article id='tabs-3'>
+                  <article  class="tab-pane fade" id="v-pills-trois" role="tabpanel" aria-labelledby="v-pills-trois-tab">
                     <h4>Vehicle Extras</h4>
 
                     <div class="row">   
@@ -187,7 +188,7 @@
                         </div>
                     </div>
                   </article>
-                  <article id='tabs-4'>
+                  <article  class="tab-pane fade" id="v-pills-quatre" role="tabpanel" aria-labelledby="v-pills-quatre-tab">
                     <h4>Contact Details</h4>
 
                     <div class="row">   
@@ -217,5 +218,4 @@
         </div>
     </section>
     </body>
-
 </template>
