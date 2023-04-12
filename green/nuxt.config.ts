@@ -4,6 +4,7 @@ export default defineNuxtConfig({
     '@/assets/css/nicepage.css',
     '@/assets/css/Page-2.css',
     '@/assets/css/style.css',
+    '@/assets/css/bootstrap.min.css',
   ],
   modules: [
     'nuxt-purgecss',
@@ -35,10 +36,6 @@ export default defineNuxtConfig({
         { name: 'description', content: 'Trouvez la voiture de vos rêves ! Découvrez notre large sélection de véhicules neufs et d\'occasion, ainsi que nos offres de financement avantageuses. Faites confiance à notre équipe de professionnels pour vous accompagner dans votre recherche et profitez d\'un service de qualité. Visitez notre site dès maintenant pour en savoir plus' }
       ],
       link: [
-        {
-          rel: 'stylesheet',
-          href: 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css'
-        },
         {
           rel: 'stylesheet',
           href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css'
