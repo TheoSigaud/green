@@ -1,39 +1,39 @@
 <template>
     <div>
-        <header class="header-area header-sticky">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <nav class="main-nav">
-                            <a href="/" class="logo">Green<em> Concession</em></a>
-                            <ul class="nav">
-                                <li><a href="/">Home</a></li>
-                                <li><a href="/cars" class="active">Cars</a></li>
-                            </ul>
-                            <a class='menu-trigger'>
-                                <span>Menu</span>
-                            </a>
-                        </nav>
-                    </div>
-                </div>
-            </div>
-        </header>
+<!--        <header class="header-area header-sticky">-->
+<!--            <div class="container">-->
+<!--                <div class="row">-->
+<!--                    <div class="col-12">-->
+<!--                        <nav class="main-nav">-->
+<!--                            <a href="/" class="logo">Green<em> Concession</em></a>-->
+<!--                            <ul class="nav">-->
+<!--                                <li><a href="/">Home</a></li>-->
+<!--                                <li><a href="/cars" class="active">Cars</a></li>-->
+<!--                            </ul>-->
+<!--                            <a class='menu-trigger'>-->
+<!--                                <span>Menu</span>-->
+<!--                            </a>-->
+<!--                        </nav>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </header>-->
 
-        <section class="section section-bg" id="call-to-action"
-                 style="background-image: url('/banner-image-1-1920x500.webp')">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-10 offset-lg-1">
-                        <div class="cta-content">
-                            <br>
-                            <br>
-                            <h2>Our <em>Cars</em></h2>
-                            <p>Ut consectetur, metus sit amet aliquet placerat, enim est ultricies ligula</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+<!--        <section class="section section-bg" id="call-to-action"-->
+<!--                 style="background-image: url('/banner-image-1-1920x500.webp')">-->
+<!--            <div class="container">-->
+<!--                <div class="row">-->
+<!--                    <div class="col-lg-10 offset-lg-1">-->
+<!--                        <div class="cta-content">-->
+<!--                            <br>-->
+<!--                            <br>-->
+<!--                            <h2>Our <em>Cars</em></h2>-->
+<!--                            <p>Ut consectetur, metus sit amet aliquet placerat, enim est ultricies ligula</p>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </section>-->
 
 
         <section class="section" id="trainers">
