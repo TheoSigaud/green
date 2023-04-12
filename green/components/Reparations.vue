@@ -23,7 +23,7 @@
 </g></svg></span>
                             <h2 class="u-align-center u-custom-font u-font-lato u-text u-text-1">Car Servicing&nbsp;<br>
                             </h2>
-                            <p class="u-align-center u-text u-text-2">If you’re concerned about a fault with your car, our mechanics
+                            <p class="u-align-center u-text text-white u-text-2 ">If you’re concerned about a fault with your car, our mechanics
                                 can carry out a number of different car repairs to help keep your car on the road and running
                                 smoothly. We offer a free car repair check to help diagnose the problem.</p>
                         </div>

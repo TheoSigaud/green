@@ -16,7 +16,7 @@
                     <div class="u-container-style u-layout-cell u-size-20 u-white u-layout-cell-2">
                         <div class="u-container-layout u-container-layout-2">
                             <h3 class="u-align-center u-custom-font u-font-lato u-text u-text-3">Battery-water</h3>
-                            <p class="u-align-center u-text u-text-4">Donec volutpat, purus et tempus convallis, odio quam
+                            <p class="u-align-center text-dark u-text u-text-4">Donec volutpat, purus et tempus convallis, odio quam
                                 consectetur nulla, sit amet auctor augue ligula ac ipsum. Curabitur elementum...</p>
                         </div>
                     </div>
