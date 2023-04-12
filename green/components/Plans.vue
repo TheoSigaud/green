@@ -36,6 +36,7 @@
                                 </ul>
                             </div>
                         </div>
+
                         <div class="u-container-style u-layout-cell u-right-cell u-size-20 u-size-20-md u-layout-cell-3">
                             <div class="u-container-layout u-valign-top u-container-layout-3">
                                 <h3 class="u-custom-font u-font-lato u-text u-text-body-alt-color u-text-7">Business Class</h3>
