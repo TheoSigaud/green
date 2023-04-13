@@ -47,13 +47,13 @@
               </ol>
               <div class="carousel-inner">
                 <div class="carousel-item active">
-                  <nuxt-img width="auto" height="auto" class="d-block w-100" src="/car-image-1-1200x600.webp" alt="First slide" loading="lazy"/>
+                  <img class="d-block w-100" src="/car-image-1-1200x600.webp" alt="First slide">
                 </div>
                 <div class="carousel-item">
-                  <nuxt-img width="auto" height="auto" class="d-block w-100" src="/car-image-1-1200x600.webp" alt="Second slide" loading="lazy"/>
+                  <img class="d-block w-100" src="/car-image-1-1200x600.webp" alt="Second slide">
                 </div>
                 <div class="carousel-item">
-                  <nuxt-img width="auto" height="auto" class="d-block w-100" src="/car-image-1-1200x600.webp" alt="Third slide" loading="lazy"/>
+                  <img class="d-block w-100" src="/car-image-1-1200x600.webp" alt="Third slide">
                 </div>
               </div>
               <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
