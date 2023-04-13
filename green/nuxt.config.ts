@@ -6,13 +6,6 @@ export default defineNuxtConfig({
     '@/assets/css/style.css',
     '@/assets/css/bootstrap.min.css',
   ],
-  script: [
-    {
-      type: 'text/javascript',
-      src: 'assets/js/bootstrap.min.js',
-      body: true
-    },
-  ],
   modules: [
     'nuxt-purgecss',
     ['@nuxtjs/robots', { configPath: "~/robots.config" }],
@@ -48,7 +41,6 @@ export default defineNuxtConfig({
           integrity: 'sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=',
           crossorigin: 'anonymous',
         },
-        { src: '/assets/js/bootsrap.min.js' },
         {
           src: 'https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js',
           integrity: 'sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1',
