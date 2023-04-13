@@ -44,7 +44,7 @@
                     <div class="col-lg-4">
                         <div class="trainer-item">
                             <div class="image-thumb">
-                                <nuxt-img src="/product-1-720x480.webp" sizes="sm:100vw md:50vw lg:800px" alt="car"/>
+                                <nuxt-img src="/product-1-720x480.webp" sizes="sm:100vw md:50vw lg:800px" alt="car" class="firt-img"/>
                             </div>
                             <div class="down-content">
                             <span>
@@ -54,9 +54,9 @@
                                 <h4>Lorem ipsum dolor sit amet, consectetur</h4>
 
                                 <p>
-                                    <i class="fa fa-dashboard"></i> 130 000km &nbsp;&nbsp;&nbsp;
-                                    <i class="fa fa-cube"></i> 1800 cc &nbsp;&nbsp;&nbsp;
-                                    <i class="fa fa-cog"></i> Manual &nbsp;&nbsp;&nbsp;
+                                    <nuxt-img src="/gear-solid.svg" width="15px" /> 130 000km &nbsp;&nbsp;&nbsp;
+                                    <nuxt-img src="/cube-solid.svg" width="15px" /> 1800 cc &nbsp;&nbsp;&nbsp;
+                                    <nuxt-img src="/gauge-solid.svg" width="15px" /> Manual &nbsp;&nbsp;&nbsp;
                                 </p>
 
                                 <ul class="social-icons">
@@ -68,7 +68,7 @@
                     <div class="col-lg-4">
                         <div class="trainer-item">
                             <div class="image-thumb">
-                                <nuxt-img sizes="sm:100vw md:50vw lg:800px" src="/product-2-720x480.webp" alt="car"/>
+                                <nuxt-img sizes="sm:100vw md:50vw lg:800px" src="/product-2-720x480.webp" alt="car" class="firt-img"/>
                             </div>
                             <div class="down-content">
                             <span>
@@ -78,9 +78,9 @@
                                 <h4>Lorem ipsum dolor sit amet, consectetur</h4>
 
                                 <p>
-                                    <i class="fa fa-dashboard"></i> 130 000km &nbsp;&nbsp;&nbsp;
-                                    <i class="fa fa-cube"></i> 1800 cc &nbsp;&nbsp;&nbsp;
-                                    <i class="fa fa-cog"></i> Manual &nbsp;&nbsp;&nbsp;
+                                    <nuxt-img src="/gear-solid.svg" width="15px" /> 130 000km &nbsp;&nbsp;&nbsp;
+                                    <nuxt-img src="/cube-solid.svg" width="15px" /> 1800 cc &nbsp;&nbsp;&nbsp;
+                                    <nuxt-img src="/gauge-solid.svg" width="15px" /> Manual &nbsp;&nbsp;&nbsp;
                                 </p>
 
                                 <ul class="social-icons">
@@ -92,7 +92,7 @@
                     <div class="col-lg-4">
                         <div class="trainer-item">
                             <div class="image-thumb">
-                                <nuxt-img loading="lazy" sizes="sm:100vw md:50vw lg:800px" src="/product-3-720x480.webp" alt="car"/>
+                                <nuxt-img loading="lazy" sizes="sm:100vw md:50vw lg:800px" src="/product-3-720x480.webp" alt="car" class="firt-img"/>
                             </div>
                             <div class="down-content">
                             <span>
@@ -102,9 +102,9 @@
                                 <h4>Lorem ipsum dolor sit amet, consectetur</h4>
 
                                 <p>
-                                    <i class="fa fa-dashboard"></i> 130 000km &nbsp;&nbsp;&nbsp;
-                                    <i class="fa fa-cube"></i> 1800 cc &nbsp;&nbsp;&nbsp;
-                                    <i class="fa fa-cog"></i> Manual &nbsp;&nbsp;&nbsp;
+                                    <nuxt-img src="/gear-solid.svg" width="15px" /> 130 000km &nbsp;&nbsp;&nbsp;
+                                    <nuxt-img src="/cube-solid.svg" width="15px" /> 1800 cc &nbsp;&nbsp;&nbsp;
+                                    <nuxt-img src="/gauge-solid.svg" width="15px" /> Manual &nbsp;&nbsp;&nbsp;
                                 </p>
 
                                 <ul class="social-icons">
@@ -117,7 +117,7 @@
                     <div class="col-lg-4">
                         <div class="trainer-item">
                             <div class="image-thumb">
-                                <nuxt-img loading="lazy" sizes="sm:100vw md:50vw lg:800px" src="/product-4-720x480.webp" alt="car"/>
+                                <nuxt-img loading="lazy" sizes="sm:100vw md:50vw lg:800px" src="/product-4-720x480.webp" alt="car" class="firt-img"/>
                             </div>
                             <div class="down-content">
                             <span>
@@ -127,9 +127,9 @@
                                 <h4>Lorem ipsum dolor sit amet, consectetur</h4>
 
                                 <p>
-                                    <i class="fa fa-dashboard"></i> 130 000km &nbsp;&nbsp;&nbsp;
-                                    <i class="fa fa-cube"></i> 1800 cc &nbsp;&nbsp;&nbsp;
-                                    <i class="fa fa-cog"></i> Manual &nbsp;&nbsp;&nbsp;
+                                    <nuxt-img src="/gear-solid.svg" width="15px" /> 130 000km &nbsp;&nbsp;&nbsp;
+                                    <nuxt-img src="/cube-solid.svg" width="15px" /> 1800 cc &nbsp;&nbsp;&nbsp;
+                                    <nuxt-img src="/gauge-solid.svg" width="15px" /> Manual &nbsp;&nbsp;&nbsp;
                                 </p>
 
                                 <ul class="social-icons">
@@ -141,7 +141,7 @@
                     <div class="col-lg-4">
                         <div class="trainer-item">
                             <div class="image-thumb">
-                                <nuxt-img loading="lazy" sizes="sm:100vw md:50vw lg:800px" src="/product-5-720x480.webp" alt="car"/>
+                                <nuxt-img loading="lazy" sizes="sm:100vw md:50vw lg:800px" src="/product-5-720x480.webp" alt="car" class="firt-img"/>
                             </div>
                             <div class="down-content">
                             <span>
@@ -151,9 +151,9 @@
                                 <h4>Lorem ipsum dolor sit amet, consectetur</h4>
 
                                 <p>
-                                    <i class="fa fa-dashboard"></i> 130 000km &nbsp;&nbsp;&nbsp;
-                                    <i class="fa fa-cube"></i> 1800 cc &nbsp;&nbsp;&nbsp;
-                                    <i class="fa fa-cog"></i> Manual &nbsp;&nbsp;&nbsp;
+                                    <nuxt-img src="/gear-solid.svg" width="15px" /> 130 000km &nbsp;&nbsp;&nbsp;
+                                    <nuxt-img src="/cube-solid.svg" width="15px" /> 1800 cc &nbsp;&nbsp;&nbsp;
+                                    <nuxt-img src="/gauge-solid.svg" width="15px" /> Manual &nbsp;&nbsp;&nbsp;
                                 </p>
 
                                 <ul class="social-icons">
@@ -165,7 +165,7 @@
                     <div class="col-lg-4">
                         <div class="trainer-item">
                             <div class="image-thumb">
-                                <nuxt-img loading="lazy" sizes="sm:100vw md:50vw lg:800px" src="/product-6-720x480.webp" alt="car"/>
+                                <nuxt-img loading="lazy" sizes="sm:100vw md:50vw lg:800px" src="/product-6-720x480.webp" alt="car" class="firt-img"/>
                             </div>
                             <div class="down-content">
                             <span>
@@ -175,9 +175,9 @@
                                 <h4>Lorem ipsum dolor sit amet, consectetur</h4>
 
                                 <p>
-                                    <i class="fa fa-dashboard"></i> 130 000km &nbsp;&nbsp;&nbsp;
-                                    <i class="fa fa-cube"></i> 1800 cc &nbsp;&nbsp;&nbsp;
-                                    <i class="fa fa-cog"></i> Manual &nbsp;&nbsp;&nbsp;
+                                    <nuxt-img src="/gear-solid.svg" width="15px" /> 130 000km &nbsp;&nbsp;&nbsp;
+                                    <nuxt-img src="/cube-solid.svg" width="15px" /> 1800 cc &nbsp;&nbsp;&nbsp;
+                                    <nuxt-img src="/gauge-solid.svg" width="15px" /> Manual &nbsp;&nbsp;&nbsp;
                                 </p>
 
                                 <ul class="social-icons">
@@ -214,3 +214,5 @@
         </section>
     </div>
 </template>
+<script setup lang="ts">
+</script>

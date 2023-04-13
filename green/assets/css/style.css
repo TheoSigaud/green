@@ -904,7 +904,7 @@ trainers
   margin-bottom: 30px;
 }
 
-#trainers .trainer-item img {
+#trainers .trainer-item .firt-img {
   width: 100%;
   border-radius: 5px;
 }
