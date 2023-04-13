@@ -21,12 +21,12 @@
         <section>
             <Slider/>
         </section>
-        <section class="section" id="trainers">
+        <section class="section mt-5" id="trainers">
             <div class="container">
                 <div class="row" id="tabs">
                     <div class="col-lg-12">
                         <section class="tab-content" id="v-pills-tabContent" style="width: 100%;">
-                            <article class="tab-pane fade show active" id="v-pills-un" role="tabpanel"
+                            <article class="text-center tab-pane fade show active" id="v-pills-un" role="tabpanel"
                                      aria-labelledby="v-pills-un-tab">
                                 <h3>Vehicle Specs</h3>
 
