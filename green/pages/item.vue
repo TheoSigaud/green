@@ -52,15 +52,7 @@
 
             
             <div class="row" id="tabs">
-              <div class="col-lg-4">
-                <ul class="nav flex-column nav-pills" id="v-pills-tab" role="tablist">
-                  <li><a class="nav-link active" id="v-pills-un-tab" data-toggle="pill" href="#v-pills-un" role="tab" aria-controls="v-pills-un" aria-selected="true"><i class="fa fa-cog"></i> Vehicle Specs</a></li>
-                  <li><a class="nav-link" id="v-pills-deux-tab" data-toggle="pill" href="#v-pills-deux" role="tab" aria-controls="v-pills-deux" aria-selected="false"><i class="fa fa-info-circle"></i> Vehicle Description</a></li>
-                  <li><a class="nav-link" id="v-pills-trois-tab" data-toggle="pill" href="#v-pills-trois" role="tab" aria-controls="v-pills-trois" aria-selected="false"><i class="fa fa-plus-circle"></i> Vehicle Extras</a></li>
-                  <li><a class="nav-link" id="v-pills-quatre-tab" data-toggle="pill" href="#v-pills-quatre" role="tab" aria-controls="v-pills-quatre" aria-selected="false"><i class="fa fa-phone"></i> Contact Details</a></li>
-                </ul>
-              </div>
-              <div class="col-lg-8">
+              <div class="col-lg-12">
                 <section class="tab-content" id="v-pills-tabContent" style="width: 100%;">
                   <article  class="tab-pane fade show active" id="v-pills-un" role="tabpanel" aria-labelledby="v-pills-un-tab">
                     <h4>Vehicle Specs</h4>
