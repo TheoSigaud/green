@@ -10,7 +10,7 @@ export default defineComponent( {
   setup() {
     const options = {
       rewind: true,
-      gap   : '1rem',
+      autoWidth: true,
     };
 
     return { options };
