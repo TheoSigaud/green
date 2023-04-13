@@ -4,6 +4,7 @@ export default defineNuxtConfig({
     '@/assets/css/nicepage.css',
     '@/assets/css/Page-2.css',
     '@/assets/css/style.css',
+    '@/assets/css/navbar.css',
     '@/assets/css/bootstrap.min.css',
   ],
   modules: [
