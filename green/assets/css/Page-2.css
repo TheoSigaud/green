@@ -1007,6 +1007,10 @@
   margin: 18px 0 0;
 }
 
+ .u-section-7 li {
+   list-style: disc;
+ }
+
 @media (max-width: 1199px) {
   .u-section-7 .u-sheet-1 {
     min-height: 633px;

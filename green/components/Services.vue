@@ -2,9 +2,7 @@
     <section class="u-align-center u-clearfix u-palette-2-base u-section-3" id="carousel_aae5">
         <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-sheet-1">
             <h2 class="u-custom-font u-font-lato u-text u-text-1">How does it work</h2>
-            <p class="u-text text-white u-text-2">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-                mollit anim id est laborum.&nbsp;<br>
-            </p>
+
             <div class="u-clearfix u-expanded-width u-gutter-30 u-layout-wrap u-layout-wrap-1">
                 <div class="u-layout">
                     <div class="u-layout-row">
@@ -25,7 +23,7 @@
 </g><g><g><path d="M282.3,242h-96.6c-5.5,0-10,4.5-10,10s4.5,10,10,10h96.6c5.5,0,10-4.5,10-10S287.8,242,282.3,242z"></path>
 </g>
 </g></svg></span>
-                                <p class="u-align-center text-white u-text u-text-3">Enter your pickup point and time, select your car.</p>
+                                <p class="u-align-center text-white u-text u-text-3">Select your favorite car.</p>
                             </div>
                         </div>
                         <div class="u-container-style u-layout-cell u-size-20 u-size-20-md u-layout-cell-2">
@@ -97,8 +95,7 @@
 </g><g><g><path d="M324.321,93.817c-2.293-0.013-4.494,0.896-6.108,2.524c-1.576,1.625-2.462,3.795-2.475,6.059    c-0.023,2.27,0.869,4.454,2.475,6.059c3.319,3.346,8.722,3.368,12.068,0.05c1.628-1.614,2.537-3.816,2.524-6.108    C332.832,97.687,329.033,93.845,324.321,93.817z"></path>
 </g>
 </g></svg></span>
-                                <p class="u-align-center text-white u-text u-text-5">Our taxi driver picks you up at the given location and
-                                    time.</p>
+                                <p class="u-align-center text-white u-text u-text-5">Get and drive your new car.</p>
                             </div>
                         </div>
                     </div>
