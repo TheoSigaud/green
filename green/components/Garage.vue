@@ -8,16 +8,13 @@
                         <div class="u-container-layout u-container-layout-1">
                             <h3 class="u-align-center u-custom-font u-font-lato u-text u-text-body-alt-color u-text-1">Air Filter
                                 Change</h3>
-                            <p class="u-align-center u-text u-text-body-alt-color u-text-2">Donec volutpat, purus et tempus
-                                convallis, odio quam consectetur nulla, sit amet auctor augue ligula ac ipsum. Curabitur
-                                elementum...</p>
+                            <p class="u-align-center u-text u-text-body-alt-color u-text-2">Air Filter Change is a service provided by car dealerships that involves the replacement of the vehicle's air filter to maintain the engine's performance and fuel efficiency.</p>
                         </div>
                     </div>
                     <div class="u-container-style u-layout-cell u-size-20 u-white u-layout-cell-2">
                         <div class="u-container-layout u-container-layout-2">
                             <h3 class="u-align-center u-custom-font u-font-lato u-text u-text-3">Battery-water</h3>
-                            <p class="u-align-center text-dark u-text u-text-4">Donec volutpat, purus et tempus convallis, odio quam
-                                consectetur nulla, sit amet auctor augue ligula ac ipsum. Curabitur elementum...</p>
+                            <p class="u-align-center text-dark u-text u-text-4">Battery-water is a service offered by car dealerships or auto repair shops that involves the inspection and refilling of the water levels in the vehicle's battery, which is essential for proper functioning and longevity of the battery.</p>
                         </div>
                     </div>
                 </div>
