@@ -1,10 +1,13 @@
 <script setup>
 import {Splide, SplideSlide} from '@splidejs/vue-splide';
+import '@splidejs/vue-splide/css';
+
 
 const options = {
     rewind: true,
     autoWidth: true,
 }
+
 </script>
 
 
@@ -28,29 +31,38 @@ const options = {
                 </div>
             </div>
         </section>
-
+        <section>
+            <Splide :options="{ rewind: true }" aria-label="My Favorite Images">
+                <SplideSlide>
+                    <img src="@/assets/images/1.webp" alt="Sample 1">
+                </SplideSlide>
+                <SplideSlide>
+                    <img src="@/assets/images/1.webp" alt="Sample 2">
+                </SplideSlide>
+            </Splide>
+        </section>
         <section class="section" id="trainers">
             <div class="container">
                 <br>
                 <br>
 
-                <Splide :options="options" aria-label="Carousel">
-                    <SplideSlide>
-                        <nuxt-img src="/1.webp" alt="Angle 1"/>
-                    </SplideSlide>
-                    <SplideSlide>
-                        <nuxt-img src="/2.webp" alt="Angle 2"/>
-                    </SplideSlide>
-                    <SplideSlide>
-                        <nuxt-img src="/3.webp" alt="Angle 3"/>
-                    </SplideSlide>
-                    <SplideSlide>
-                        <nuxt-img src="/4.webp" alt="Angle 4"/>
-                    </SplideSlide>
-                    <SplideSlide>
-                        <nuxt-img src="/5.webp" alt="Angle 5"/>
-                    </SplideSlide>
-                </Splide>
+                <!--                <Splide :options="options" aria-label="Carousel">-->
+                <!--                    <SplideSlide>-->
+                <!--                        <nuxt-img src="/1.webp" alt="Angle 1"/>-->
+                <!--                    </SplideSlide>-->
+                <!--                    <SplideSlide>-->
+                <!--                        <nuxt-img src="/2.webp" alt="Angle 2"/>-->
+                <!--                    </SplideSlide>-->
+                <!--                    <SplideSlide>-->
+                <!--                        <nuxt-img src="/3.webp" alt="Angle 3"/>-->
+                <!--                    </SplideSlide>-->
+                <!--                    <SplideSlide>-->
+                <!--                        <nuxt-img src="/4.webp" alt="Angle 4"/>-->
+                <!--                    </SplideSlide>-->
+                <!--                    <SplideSlide>-->
+                <!--                        <nuxt-img src="/5.webp" alt="Angle 5"/>-->
+                <!--                    </SplideSlide>-->
+                <!--                </Splide>-->
 
                 <br>
                 <br>
