@@ -55,7 +55,7 @@
               <div class="col-lg-12">
                 <section class="tab-content" id="v-pills-tabContent" style="width: 100%;">
                   <article  class="tab-pane fade show active" id="v-pills-un" role="tabpanel" aria-labelledby="v-pills-un-tab">
-                    <h4>Vehicle Specs</h4>
+                    <h3>Vehicle Specs</h3>
 
                     <div class="row">
                        <div class="col-sm-6">
