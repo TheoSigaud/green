@@ -16,7 +16,7 @@
                                 <del><sup>$</sup>11999 </del> &nbsp; <sup>$</sup>11779
                             </span>
 
-                                <h4>Lorem ipsum dolor sit amet, consectetur</h4>
+                                <h4>Dacia d'occasion dans son jus</h4>
 
                                 <p class="text-dark">
                                     <nuxt-img src="/gear-solid.svg" width="15px" height="15px" alt="icon"/>
@@ -44,7 +44,7 @@
                                 <del><sup>$</sup>11999 </del> &nbsp; <sup>$</sup>11779
                             </span>
 
-                                <h4>Lorem ipsum dolor sit amet, consectetur</h4>
+                                <h4>Mazda cabriolet</h4>
 
                                 <p class="text-dark">
                                     <nuxt-img src="/gear-solid.svg" width="15px" height="15px" alt="icon"/>
@@ -72,7 +72,7 @@
                                 <del><sup>$</sup>11999 </del> &nbsp; <sup>$</sup>11779
                             </span>
 
-                                <h4>Lorem ipsum dolor sit amet, consectetur</h4>
+                                <h4>Mazda version sport</h4>
 
                                 <p class="text-dark">
                                     <nuxt-img src="/gear-solid.svg" width="15px" height="15px" alt="icon"/>
@@ -101,7 +101,7 @@
                                 <del><sup>$</sup>11999 </del> &nbsp; <sup>$</sup>11779
                             </span>
 
-                                <h4>Lorem ipsum dolor sit amet, consectetur</h4>
+                                <h4>Voiture Kia familiale</h4>
 
                                 <p class="text-dark">
                                     <nuxt-img src="/gear-solid.svg" width="15px" height="15px" alt="icon"/>
@@ -129,7 +129,7 @@
                                 <del><sup>$</sup>11999 </del> &nbsp; <sup>$</sup>11779
                             </span>
 
-                                <h4>Lorem ipsum dolor sit amet, consectetur</h4>
+                                <h4>Belle BMW sportive</h4>
 
                                 <p class="text-dark">
                                     <nuxt-img src="/gear-solid.svg" width="15px" height="15px" alt="icon"/>
@@ -157,7 +157,7 @@
                                 <del><sup>$</sup>11999 </del> &nbsp; <sup>$</sup>11779
                             </span>
 
-                                <h4>Lorem ipsum dolor sit amet, consectetur</h4>
+                                <h4>BMW très agressive</h4>
 
                                 <p class="text-dark">
                                     <nuxt-img src="/gear-solid.svg" width="15px" height="15px" alt="icon"/>
