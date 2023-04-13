@@ -67,13 +67,13 @@
                        <div class="col-sm-6">
                             <label>Make</label>
                        
-                            <p>Lorem ipsum dolor sit</p>
+                            <p>Italy</p>
                        </div>
 
                        <div class="col-sm-6">
                             <label> Model</label>
                        
-                            <p>Lorem ipsum dolor sit</p>
+                            <p>Lamborghini</p>
                        </div>
 
                        <div class="col-sm-6">
