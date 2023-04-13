@@ -1,3 +1,24 @@
+<script>
+import { Splide, SplideSlide } from '@splidejs/vue-splide';
+
+export default defineComponent( {
+  components: {
+    Splide,
+    SplideSlide,
+  },
+
+  setup() {
+    const options = {
+      rewind: true,
+      gap   : '1rem',
+    };
+
+    return { options };
+  },
+} );
+</script>
+
+
 <template>
     <section class="section section-bg" id="call-to-action" style="background-image: url('/banner-image-1-1920x500.webp')">
         <div class="container">
@@ -20,32 +41,23 @@
             <br>
             <br>
 
-            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-              <ol class="carousel-indicators">
-                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-              </ol>
-              <div class="carousel-inner">
-                <div class="carousel-item active">
-                  <img class="d-block w-100" src="/car-image-1-1200x600.webp" alt="First slide">
-                </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="/car-image-1-1200x600.webp" alt="Second slide">
-                </div>
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="/car-image-1-1200x600.webp" alt="Third slide">
-                </div>
-              </div>
-              <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-              </a>
-              <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-              </a>
-            </div>
+            <Splide :options="options" aria-label="Carousel">
+    <SplideSlide>
+      <nuxt-img src="/1.webp" alt="Angle 1"/>
+    </SplideSlide>
+    <SplideSlide>
+      <nuxt-img src="/2.webp" alt="Angle 2"/>
+    </SplideSlide>
+    <SplideSlide>
+      <nuxt-img src="/3.webp" alt="Angle 3"/>
+    </SplideSlide>
+    <SplideSlide>
+      <nuxt-img src="/4.webp" alt="Angle 4"/>
+    </SplideSlide>
+    <SplideSlide>
+      <nuxt-img src="/5.webp" alt="Angle 5"/>
+    </SplideSlide>
+  </Splide>
             
             <br>
             <br>

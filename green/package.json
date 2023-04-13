@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@nuxtjs/robots": "^3.0.0",
+    "@splidejs/vue-splide": "^0.6.12",
     "nuxt-purgecss": "^2.0.0"
   }
 }
