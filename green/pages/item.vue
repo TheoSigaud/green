@@ -43,19 +43,19 @@ export default defineComponent( {
 
             <Splide :options="options" aria-label="Carousel">
     <SplideSlide>
-      <nuxt-img src="/1.webp" alt="Angle 1"/>
+      <nuxt-img src="/1.webp" style="width: 1200px" alt="Angle 1"/>
     </SplideSlide>
     <SplideSlide>
-      <nuxt-img src="/2.webp" alt="Angle 2"/>
+      <nuxt-img src="/2.webp" style="width: 1200px" alt="Angle 2"/>
     </SplideSlide>
     <SplideSlide>
-      <nuxt-img src="/3.webp" alt="Angle 3"/>
+      <nuxt-img src="/3.webp" style="width: 1200px" alt="Angle 3"/>
     </SplideSlide>
     <SplideSlide>
-      <nuxt-img src="/4.webp" alt="Angle 4"/>
+      <nuxt-img src="/4.webp" style="width: 1200px" alt="Angle 4"/>
     </SplideSlide>
     <SplideSlide>
-      <nuxt-img src="/5.webp" alt="Angle 5"/>
+      <nuxt-img src="/5.webp" style="width: 1200px" alt="Angle 5"/>
     </SplideSlide>
   </Splide>
             
