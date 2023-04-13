@@ -1,140 +1,67 @@
 <template>
-    <swiper
-            :style="{
-      '--swiper-navigation-color': '#fff',
-      '--swiper-pagination-color': '#fff',
-    }"
-            :loop="true"
-            :spaceBetween="10"
-            :navigation="true"
-            :thumbs="{ swiper: thumbsSwiper }"
-            :modules="modules"
-            class="mySwiper2"
-    >
-        <swiper-slide
-        ><img
-                src="https://swiperjs.com/demos/images/nature-1.jpg"/></swiper-slide
-        >
-        <swiper-slide
-        ><img
-                src="https://swiperjs.com/demos/images/nature-2.jpg"/></swiper-slide
-        >
-        <swiper-slide
-        ><img
-                src="https://swiperjs.com/demos/images/nature-3.jpg"/></swiper-slide
-        >
-        <swiper-slide
-        ><img
-                src="https://swiperjs.com/demos/images/nature-4.jpg"/></swiper-slide
-        >
-        <swiper-slide
-        ><img
-                src="https://swiperjs.com/demos/images/nature-5.jpg"/></swiper-slide
-        >
-        <swiper-slide
-        ><img
-                src="https://swiperjs.com/demos/images/nature-6.jpg"/></swiper-slide
-        >
-        <swiper-slide
-        ><img
-                src="https://swiperjs.com/demos/images/nature-7.jpg"/></swiper-slide
-        >
-        <swiper-slide
-        ><img
-                src="https://swiperjs.com/demos/images/nature-8.jpg"/></swiper-slide
-        >
-        <swiper-slide
-        ><img
-                src="https://swiperjs.com/demos/images/nature-9.jpg"/></swiper-slide
-        >
-        <swiper-slide
-        ><img src="https://swiperjs.com/demos/images/nature-10.jpg"
-        /></swiper-slide>
-    </swiper>
-    <swiper
-            @swiper="setThumbsSwiper"
-            :loop="true"
-            :spaceBetween="10"
-            :slidesPerView="4"
-            :freeMode="true"
-            :watchSlidesProgress="true"
-            :modules="modules"
-            class="mySwiper"
-    >
-        <swiper-slide
-        ><img
-                src="https://swiperjs.com/demos/images/nature-1.jpg"/></swiper-slide
-        >
-        <swiper-slide
-        ><img
-                src="https://swiperjs.com/demos/images/nature-2.jpg"/></swiper-slide
-        >
-        <swiper-slide
-        ><img
-                src="https://swiperjs.com/demos/images/nature-3.jpg"/></swiper-slide
-        >
-        <swiper-slide
-        ><img
-                src="https://swiperjs.com/demos/images/nature-4.jpg"/></swiper-slide
-        >
-        <swiper-slide
-        ><img
-                src="https://swiperjs.com/demos/images/nature-5.jpg"/></swiper-slide
-        >
-        <swiper-slide
-        ><img
-                src="https://swiperjs.com/demos/images/nature-6.jpg"/></swiper-slide
-        >
-        <swiper-slide
-        ><img
-                src="https://swiperjs.com/demos/images/nature-7.jpg"/></swiper-slide
-        >
-        <swiper-slide
-        ><img
-                src="https://swiperjs.com/demos/images/nature-8.jpg"/></swiper-slide
-        >
-        <swiper-slide
-        ><img
-                src="https://swiperjs.com/demos/images/nature-9.jpg"/></swiper-slide
-        >
-        <swiper-slide
-        ><img src="https://swiperjs.com/demos/images/nature-10.jpg"
-        /></swiper-slide>
-    </swiper>
+    <div>
+        <div class="slideshow-container">
+
+            <div class="mySlides">
+                <div class="numbertext">1 / 3</div>
+                <nuxt-img src="/1.webp"/>
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">2 / 3</div>
+                <nuxt-img src="/2.webp"/>
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">3 / 3</div>
+                <nuxt-img src="/3.webp"/>
+            </div>
+
+            <a class="prev" @click="plusSlides(-1)">❮</a>
+            <a class="next" @click="plusSlides(1)">❯</a>
+
+        </div>
+        <br>
+
+        <div style="text-align:center">
+            <span class="dot" @click="currentSlide(1)"></span>
+            <span class="dot" @click="currentSlide(2)"></span>
+            <span class="dot" @click="currentSlide(3)"></span>
+        </div>
+    </div>
 </template>
-<script>
-// Import Swiper Vue.js components
-import {Swiper, SwiperSlide} from 'swiper/vue';
+<script setup>
+let slideIndex = 1;
 
-// Import Swiper styles
-import 'swiper/css';
+onMounted(() => {
+    showSlides(slideIndex);
+});
 
-import "swiper/css/free-mode"
-import "swiper/css/navigation"
-import "swiper/css/thumbs"
+function plusSlides(n) {
+    showSlides(slideIndex += n);
+}
 
+function currentSlide(n) {
+    showSlides(slideIndex = n);
+}
 
-// import required modules
-import {FreeMode, Navigation, Thumbs} from 'swiper';
-
-
-export default {
-    components: {
-        Swiper,
-        SwiperSlide,
-    },
-    setup() {
-        let thumbsSwiper = null;
-
-        const setThumbsSwiper = (swiper) => {
-            thumbsSwiper = swiper;
-        };
-        return {
-
-            modules: [FreeMode,Navigation,Thumbs],
-        };
-
+function showSlides(n) {
+    let i;
+    let slides = document.getElementsByClassName("mySlides");
+    let dots = document.getElementsByClassName("dot");
+    if (n > slides.length) {
+        slideIndex = 1
     }
-
+    if (n < 1) {
+        slideIndex = slides.length
+    }
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" activeSlide", "");
+    }
+    slides[slideIndex - 1].style.display = "block";
+    dots[slideIndex - 1].className += " activeSlide";
 }
 </script>

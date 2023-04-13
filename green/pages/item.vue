@@ -23,31 +23,6 @@
         </section>
         <section class="section" id="trainers">
             <div class="container">
-                <br>
-                <br>
-
-                <!--                <Splide :options="options" aria-label="Carousel">-->
-                <!--                    <SplideSlide>-->
-                <!--                        <nuxt-img src="/1.webp" alt="Angle 1"/>-->
-                <!--                    </SplideSlide>-->
-                <!--                    <SplideSlide>-->
-                <!--                        <nuxt-img src="/2.webp" alt="Angle 2"/>-->
-                <!--                    </SplideSlide>-->
-                <!--                    <SplideSlide>-->
-                <!--                        <nuxt-img src="/3.webp" alt="Angle 3"/>-->
-                <!--                    </SplideSlide>-->
-                <!--                    <SplideSlide>-->
-                <!--                        <nuxt-img src="/4.webp" alt="Angle 4"/>-->
-                <!--                    </SplideSlide>-->
-                <!--                    <SplideSlide>-->
-                <!--                        <nuxt-img src="/5.webp" alt="Angle 5"/>-->
-                <!--                    </SplideSlide>-->
-                <!--                </Splide>-->
-
-                <br>
-                <br>
-
-
                 <div class="row" id="tabs">
                     <div class="col-lg-12">
                         <section class="tab-content" id="v-pills-tabContent" style="width: 100%;">

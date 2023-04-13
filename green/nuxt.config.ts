@@ -12,7 +12,6 @@ export default defineNuxtConfig({
     'nuxt-purgecss',
     ['@nuxtjs/robots', { configPath: "~/robots.config" }],
     '@nuxt/image-edge',
-    'nuxt-swiper',
   ],
   image: {
     // The screen sizes predefined by `@nuxt/image`:
