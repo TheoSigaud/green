@@ -7,7 +7,8 @@
                         <br>
                         <br>
                         <h2><small><del>$12 999</del></small> <em>$11 779</em></h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur.</p>
+                        <p>Roulez à bord de la meilleur voiture du marché.</p>
+                        <button type="button" class="btn " id="btnPaiement" >Paiement</button>
                     </div>
                 </div>
             </div>
