@@ -1,24 +1,4 @@
 <template>
-    <body>
-        <header class="header-area header-sticky">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <nav class="main-nav">
-                        <a href="/" class="logo">Green<em> Concession</em></a>
-                        <ul class="nav">
-                            <li><a href="/">Home</a></li>
-                            <li><a href="/cars" class="active">Cars</a></li>
-                        </ul>        
-                        <a class='menu-trigger'>
-                            <span>Menu</span>
-                        </a>
-                    </nav>
-                </div>
-            </div>
-        </div>
-    </header>
-
     <section class="section section-bg" id="call-to-action" style="background-image: url('/banner-image-1-1920x500.webp')">
         <div class="container">
             <div class="row">
@@ -217,5 +197,4 @@
             </div>
         </div>
     </section>
-    </body>
 </template>
