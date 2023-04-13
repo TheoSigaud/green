@@ -1264,3 +1264,7 @@ a:focus,
 a:hover {
   color: #f9735b;
 }
+
+#btnPaiement{
+  background-color: orange;
+}
