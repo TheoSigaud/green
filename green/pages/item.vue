@@ -1,16 +1,3 @@
-<script setup>
-import {Splide, SplideSlide} from '@splidejs/vue-splide';
-import '@splidejs/vue-splide/css';
-
-
-const options = {
-    rewind: true,
-    autoWidth: true,
-}
-
-</script>
-
-
 <template>
     <div>
         <section class="section section-bg" id="call-to-action"
@@ -32,14 +19,7 @@ const options = {
             </div>
         </section>
         <section>
-            <Splide :options="{ rewind: true }" aria-label="My Favorite Images">
-                <SplideSlide>
-                    <img src="@/assets/images/1.webp" alt="Sample 1">
-                </SplideSlide>
-                <SplideSlide>
-                    <img src="@/assets/images/1.webp" alt="Sample 2">
-                </SplideSlide>
-            </Splide>
+            <Slider/>
         </section>
         <section class="section" id="trainers">
             <div class="container">

@@ -6,11 +6,13 @@ export default defineNuxtConfig({
     '@/assets/css/style.css',
     '@/assets/css/navbar.css',
     '@/assets/css/bootstrap.min.css',
+    '@/assets/css/slide.css',
   ],
   modules: [
     'nuxt-purgecss',
     ['@nuxtjs/robots', { configPath: "~/robots.config" }],
     '@nuxt/image-edge',
+    'nuxt-swiper',
   ],
   image: {
     // The screen sizes predefined by `@nuxt/image`:
