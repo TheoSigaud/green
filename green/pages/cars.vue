@@ -8,7 +8,7 @@
                     <div class="col-lg-4">
                         <div class="trainer-item">
                             <div class="image-thumb">
-                                <nuxt-img src="/product-1-720x480.webp" width="400" height="250" sizes="sm:400px md:400px lg:400px" alt="car"
+                                <nuxt-img src="/product-1-720x480.webp" width="400" sizes="sm:400px md:400px lg:400px" alt="car"
                                           class="firt-img"/>
                             </div>
                             <div class="down-content">
@@ -36,7 +36,7 @@
                     <div class="col-lg-4">
                         <div class="trainer-item">
                             <div class="image-thumb">
-                                <nuxt-img width="400" height="250" sizes="sm:400px md:400px lg:400px" src="/product-2-720x480.webp" alt="car"
+                                <nuxt-img width="400" sizes="sm:400px md:400px lg:400px" src="/product-2-720x480.webp" alt="car"
                                           class="firt-img"/>
                             </div>
                             <div class="down-content">
@@ -64,7 +64,7 @@
                     <div class="col-lg-4">
                         <div class="trainer-item">
                             <div class="image-thumb">
-                                <nuxt-img width="400" height="250" loading="lazy" sizes="sm:400px md:400px lg:400px" src="/product-3-720x480.webp"
+                                <nuxt-img width="400" loading="lazy" sizes="sm:400px md:400px lg:400px" src="/product-3-720x480.webp"
                                           alt="car" class="firt-img"/>
                             </div>
                             <div class="down-content">
@@ -93,7 +93,7 @@
                     <div class="col-lg-4">
                         <div class="trainer-item">
                             <div class="image-thumb">
-                                <nuxt-img width="400" height="250" loading="lazy" sizes="sm:400px md:400px lg:400px" src="/product-4-720x480.webp"
+                                <nuxt-img width="400" loading="lazy" sizes="sm:400px md:400px lg:400px" src="/product-4-720x480.webp"
                                           alt="car" class="firt-img"/>
                             </div>
                             <div class="down-content">
@@ -121,7 +121,7 @@
                     <div class="col-lg-4">
                         <div class="trainer-item">
                             <div class="image-thumb">
-                                <nuxt-img width="400" height="250"  loading="lazy" sizes="sm:400px md:400px lg:400px" src="/product-5-720x480.webp"
+                                <nuxt-img width="400" loading="lazy" sizes="sm:400px md:400px lg:400px" src="/product-5-720x480.webp"
                                           alt="car" class="firt-img"/>
                             </div>
                             <div class="down-content">
@@ -149,7 +149,7 @@
                     <div class="col-lg-4">
                         <div class="trainer-item">
                             <div class="image-thumb">
-                                <nuxt-img width="400" height="250" loading="lazy" sizes="sm:400px md:400px lg:400px" src="/product-6-720x480.webp"
+                                <nuxt-img width="400" loading="lazy" sizes="sm:400px md:400px lg:400px" src="/product-6-720x480.webp"
                                           alt="car" class="firt-img"/>
                             </div>
                             <div class="down-content">
