@@ -3,29 +3,20 @@
         <div class="slideshow-container">
 
             <div class="mySlides">
-                <div class="numbertext">1 / 5</div>
-                <nuxt-img src="/1.webp" alt="car"/>
+                <div class="numbertext">1 / 3</div>
+                <nuxt-img src="/1.webp" class="sliderImg" alt="car"/>
             </div>
 
             <div class="mySlides">
-                <div class="numbertext">2 / 5</div>
-                <nuxt-img loading="lazy" src="/2.webp" alt="car"/>
+                <div class="numbertext">2 / 3</div>
+                <nuxt-img loading="lazy" src="/2.webp" class="sliderImg" alt="car"/>
             </div>
 
             <div class="mySlides">
-                <div class="numbertext">3 / 5</div>
-                <nuxt-img loading="lazy" src="/3.webp" alt="car"/>
+                <div class="numbertext">3 / 3</div>
+                <nuxt-img loading="lazy" src="/3.webp" class="sliderImg" alt="car"/>
             </div>
 
-            <div class="mySlides">
-                <div class="numbertext">4 / 5</div>
-                <nuxt-img loading="lazy" src="/4.webp" alt="car"/>
-            </div>
-
-            <div class="mySlides">
-                <div class="numbertext">5 / 5</div>
-                <nuxt-img loading="lazy" src="/5.webp" alt="car"/>
-            </div>
 
             <span class="prev" @click="plusSlides(-1)">❮</span>
             <span class="next" @click="plusSlides(1)">❯</span>
@@ -37,8 +28,6 @@
             <span class="dot" @click="currentSlide(1)"></span>
             <span class="dot" @click="currentSlide(2)"></span>
             <span class="dot" @click="currentSlide(3)"></span>
-            <span class="dot" @click="currentSlide(4)"></span>
-            <span class="dot" @click="currentSlide(5)"></span>
         </div>
     </div>
 </template>
