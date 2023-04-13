@@ -4,7 +4,6 @@ import {Splide, SplideSlide} from '@splidejs/vue-splide';
 const options = {
     rewind: true,
     autoWidth: true,
-
 }
 </script>
 
