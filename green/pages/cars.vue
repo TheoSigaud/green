@@ -54,7 +54,7 @@
 
                                 <h4>Lorem ipsum dolor sit amet, consectetur</h4>
 
-                                <p>
+                                <p class="text-dark">
                                     <nuxt-img src="/gear-solid.svg" width="15px" alt="icon"/>
                                     130 000km &nbsp;&nbsp;&nbsp;
                                     <nuxt-img src="/cube-solid.svg" width="15px" alt="icon"/>
@@ -82,7 +82,7 @@
 
                                 <h4>Lorem ipsum dolor sit amet, consectetur</h4>
 
-                                <p>
+                                <p class="text-dark">
                                     <nuxt-img src="/gear-solid.svg" width="15px" alt="icon"/>
                                     130 000km &nbsp;&nbsp;&nbsp;
                                     <nuxt-img src="/cube-solid.svg" width="15px" alt="icon"/>
@@ -110,7 +110,7 @@
 
                                 <h4>Lorem ipsum dolor sit amet, consectetur</h4>
 
-                                <p>
+                                <p class="text-dark">
                                     <nuxt-img src="/gear-solid.svg" width="15px" alt="icon"/>
                                     130 000km &nbsp;&nbsp;&nbsp;
                                     <nuxt-img src="/cube-solid.svg" width="15px" alt="icon"/>
@@ -139,7 +139,7 @@
 
                                 <h4>Lorem ipsum dolor sit amet, consectetur</h4>
 
-                                <p>
+                                <p class="text-dark">
                                     <nuxt-img src="/gear-solid.svg" width="15px" alt="icon"/>
                                     130 000km &nbsp;&nbsp;&nbsp;
                                     <nuxt-img src="/cube-solid.svg" width="15px" alt="icon"/>
@@ -167,7 +167,7 @@
 
                                 <h4>Lorem ipsum dolor sit amet, consectetur</h4>
 
-                                <p>
+                                <p class="text-dark">
                                     <nuxt-img src="/gear-solid.svg" width="15px" alt="icon"/>
                                     130 000km &nbsp;&nbsp;&nbsp;
                                     <nuxt-img src="/cube-solid.svg" width="15px" alt="icon"/>
@@ -195,7 +195,7 @@
 
                                 <h4>Lorem ipsum dolor sit amet, consectetur</h4>
 
-                                <p>
+                                <p class="text-dark">
                                     <nuxt-img src="/gear-solid.svg" width="15px" alt="icon"/>
                                     130 000km &nbsp;&nbsp;&nbsp;
                                     <nuxt-img src="/cube-solid.svg" width="15px" alt="icon"/>
